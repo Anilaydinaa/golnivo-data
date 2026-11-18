@@ -1,0 +1,1355 @@
+{
+  "modelVersion": "poisson-tw-1",
+  "selected": {
+    "xi": 0.003,
+    "regularization": 5.0
+  },
+  "grid": [
+    {
+      "xi": 0.001,
+      "regularization": 1.0,
+      "logLoss": 0.9732,
+      "evaluated": 718
+    },
+    {
+      "xi": 0.001,
+      "regularization": 5.0,
+      "logLoss": 0.9712,
+      "evaluated": 718
+    },
+    {
+      "xi": 0.001,
+      "regularization": 15.0,
+      "logLoss": 0.9753,
+      "evaluated": 718
+    },
+    {
+      "xi": 0.003,
+      "regularization": 1.0,
+      "logLoss": 0.9721,
+      "evaluated": 718
+    },
+    {
+      "xi": 0.003,
+      "regularization": 5.0,
+      "logLoss": 0.971,
+      "evaluated": 718
+    },
+    {
+      "xi": 0.003,
+      "regularization": 15.0,
+      "logLoss": 0.9785,
+      "evaluated": 718
+    },
+    {
+      "xi": 0.006,
+      "regularization": 1.0,
+      "logLoss": 0.9745,
+      "evaluated": 718
+    },
+    {
+      "xi": 0.006,
+      "regularization": 5.0,
+      "logLoss": 0.9732,
+      "evaluated": 718
+    },
+    {
+      "xi": 0.006,
+      "regularization": 15.0,
+      "logLoss": 0.9832,
+      "evaluated": 718
+    }
+  ],
+  "seasons": {
+    "2023-24": {
+      "model": {
+        "evaluated": 380,
+        "pickHits": 197,
+        "pickRate": 0.5184,
+        "logLoss": 0.9879,
+        "brier": 0.589,
+        "goals3PlusRate": 0.5263,
+        "bothScoreRate": 0.4684,
+        "calibration": [
+          {
+            "bucket": "0.0–0.1",
+            "count": 28,
+            "meanProbability": 0.0727,
+            "observedRate": 0.0357
+          },
+          {
+            "bucket": "0.1–0.2",
+            "count": 114,
+            "meanProbability": 0.1631,
+            "observedRate": 0.1491
+          },
+          {
+            "bucket": "0.2–0.3",
+            "count": 487,
+            "meanProbability": 0.2537,
+            "observedRate": 0.2444
+          },
+          {
+            "bucket": "0.3–0.4",
+            "count": 194,
+            "meanProbability": 0.347,
+            "observedRate": 0.3505
+          },
+          {
+            "bucket": "0.4–0.5",
+            "count": 161,
+            "meanProbability": 0.4491,
+            "observedRate": 0.4783
+          },
+          {
+            "bucket": "0.5–0.6",
+            "count": 79,
+            "meanProbability": 0.5438,
+            "observedRate": 0.519
+          },
+          {
+            "bucket": "0.6–0.7",
+            "count": 48,
+            "meanProbability": 0.6399,
+            "observedRate": 0.6875
+          },
+          {
+            "bucket": "0.7–0.8",
+            "count": 19,
+            "meanProbability": 0.7405,
+            "observedRate": 0.8421
+          },
+          {
+            "bucket": "0.8–0.9",
+            "count": 8,
+            "meanProbability": 0.8309,
+            "observedRate": 0.75
+          },
+          {
+            "bucket": "0.9–1.0",
+            "count": 2,
+            "meanProbability": 0.9144,
+            "observedRate": 1.0
+          }
+        ]
+      },
+      "alwaysHome": {
+        "evaluated": 380,
+        "pickHits": 173,
+        "pickRate": 0.4553,
+        "logLoss": 18.8145,
+        "brier": 1.0895,
+        "goals3PlusRate": 0.0,
+        "bothScoreRate": 0.0,
+        "calibration": [
+          {
+            "bucket": "0.0–0.1",
+            "count": 760,
+            "meanProbability": 0.0,
+            "observedRate": 0.2724
+          },
+          {
+            "bucket": "0.1–0.2",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.2–0.3",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.3–0.4",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.4–0.5",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.5–0.6",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.6–0.7",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.7–0.8",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.8–0.9",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.9–1.0",
+            "count": 380,
+            "meanProbability": 1.0,
+            "observedRate": 0.4553
+          }
+        ]
+      },
+      "trainingFrequency": {
+        "evaluated": 380,
+        "pickHits": 173,
+        "pickRate": 0.4553,
+        "logLoss": 1.07,
+        "brier": 0.6467,
+        "goals3PlusRate": 0.0,
+        "bothScoreRate": 0.0,
+        "calibration": [
+          {
+            "bucket": "0.0–0.1",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.1–0.2",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.2–0.3",
+            "count": 561,
+            "meanProbability": 0.2842,
+            "observedRate": 0.2692
+          },
+          {
+            "bucket": "0.3–0.4",
+            "count": 199,
+            "meanProbability": 0.3031,
+            "observedRate": 0.2814
+          },
+          {
+            "bucket": "0.4–0.5",
+            "count": 380,
+            "meanProbability": 0.4217,
+            "observedRate": 0.4553
+          },
+          {
+            "bucket": "0.5–0.6",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.6–0.7",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.7–0.8",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.8–0.9",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.9–1.0",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          }
+        ]
+      },
+      "confidence": {
+        "low": {
+          "evaluated": 109,
+          "pickHits": 38,
+          "pickRate": 0.3486,
+          "logLoss": 1.0891,
+          "brier": 0.6619,
+          "goals3PlusRate": 0.4862,
+          "bothScoreRate": 0.4312,
+          "calibration": [
+            {
+              "bucket": "0.0–0.1",
+              "count": 1,
+              "meanProbability": 0.0991,
+              "observedRate": 0.0
+            },
+            {
+              "bucket": "0.1–0.2",
+              "count": 5,
+              "meanProbability": 0.1568,
+              "observedRate": 0.2
+            },
+            {
+              "bucket": "0.2–0.3",
+              "count": 116,
+              "meanProbability": 0.2667,
+              "observedRate": 0.2845
+            },
+            {
+              "bucket": "0.3–0.4",
+              "count": 159,
+              "meanProbability": 0.3545,
+              "observedRate": 0.3711
+            },
+            {
+              "bucket": "0.4–0.5",
+              "count": 39,
+              "meanProbability": 0.4248,
+              "observedRate": 0.3333
+            },
+            {
+              "bucket": "0.5–0.6",
+              "count": 4,
+              "meanProbability": 0.5396,
+              "observedRate": 0.25
+            },
+            {
+              "bucket": "0.6–0.7",
+              "count": 2,
+              "meanProbability": 0.6611,
+              "observedRate": 1.0
+            },
+            {
+              "bucket": "0.7–0.8",
+              "count": 1,
+              "meanProbability": 0.7689,
+              "observedRate": 0.0
+            },
+            {
+              "bucket": "0.8–0.9",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.9–1.0",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            }
+          ]
+        },
+        "medium": {
+          "evaluated": 201,
+          "pickHits": 115,
+          "pickRate": 0.5721,
+          "logLoss": 0.9783,
+          "brier": 0.579,
+          "goals3PlusRate": 0.4975,
+          "bothScoreRate": 0.4826,
+          "calibration": [
+            {
+              "bucket": "0.0–0.1",
+              "count": 1,
+              "meanProbability": 0.0992,
+              "observedRate": 1.0
+            },
+            {
+              "bucket": "0.1–0.2",
+              "count": 41,
+              "meanProbability": 0.1652,
+              "observedRate": 0.0488
+            },
+            {
+              "bucket": "0.2–0.3",
+              "count": 325,
+              "meanProbability": 0.254,
+              "observedRate": 0.2277
+            },
+            {
+              "bucket": "0.3–0.4",
+              "count": 35,
+              "meanProbability": 0.313,
+              "observedRate": 0.2571
+            },
+            {
+              "bucket": "0.4–0.5",
+              "count": 122,
+              "meanProbability": 0.4569,
+              "observedRate": 0.5246
+            },
+            {
+              "bucket": "0.5–0.6",
+              "count": 58,
+              "meanProbability": 0.5357,
+              "observedRate": 0.5517
+            },
+            {
+              "bucket": "0.6–0.7",
+              "count": 16,
+              "meanProbability": 0.6429,
+              "observedRate": 0.9375
+            },
+            {
+              "bucket": "0.7–0.8",
+              "count": 5,
+              "meanProbability": 0.7071,
+              "observedRate": 0.8
+            },
+            {
+              "bucket": "0.8–0.9",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.9–1.0",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            }
+          ]
+        },
+        "high": {
+          "evaluated": 70,
+          "pickHits": 44,
+          "pickRate": 0.6286,
+          "logLoss": 0.858,
+          "brier": 0.5044,
+          "goals3PlusRate": 0.6714,
+          "bothScoreRate": 0.4857,
+          "calibration": [
+            {
+              "bucket": "0.0–0.1",
+              "count": 26,
+              "meanProbability": 0.0707,
+              "observedRate": 0.0
+            },
+            {
+              "bucket": "0.1–0.2",
+              "count": 68,
+              "meanProbability": 0.1623,
+              "observedRate": 0.2059
+            },
+            {
+              "bucket": "0.2–0.3",
+              "count": 46,
+              "meanProbability": 0.2184,
+              "observedRate": 0.2609
+            },
+            {
+              "bucket": "0.3–0.4",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.4–0.5",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.5–0.6",
+              "count": 17,
+              "meanProbability": 0.5727,
+              "observedRate": 0.4706
+            },
+            {
+              "bucket": "0.6–0.7",
+              "count": 30,
+              "meanProbability": 0.6368,
+              "observedRate": 0.5333
+            },
+            {
+              "bucket": "0.7–0.8",
+              "count": 13,
+              "meanProbability": 0.7512,
+              "observedRate": 0.9231
+            },
+            {
+              "bucket": "0.8–0.9",
+              "count": 8,
+              "meanProbability": 0.8309,
+              "observedRate": 0.75
+            },
+            {
+              "bucket": "0.9–1.0",
+              "count": 2,
+              "meanProbability": 0.9144,
+              "observedRate": 1.0
+            }
+          ]
+        }
+      }
+    },
+    "2024-25": {
+      "model": {
+        "evaluated": 338,
+        "pickHits": 182,
+        "pickRate": 0.5385,
+        "logLoss": 0.9519,
+        "brier": 0.5624,
+        "goals3PlusRate": 0.5562,
+        "bothScoreRate": 0.5355,
+        "calibration": [
+          {
+            "bucket": "0.0–0.1",
+            "count": 30,
+            "meanProbability": 0.0735,
+            "observedRate": 0.0333
+          },
+          {
+            "bucket": "0.1–0.2",
+            "count": 133,
+            "meanProbability": 0.157,
+            "observedRate": 0.1278
+          },
+          {
+            "bucket": "0.2–0.3",
+            "count": 408,
+            "meanProbability": 0.2491,
+            "observedRate": 0.2451
+          },
+          {
+            "bucket": "0.3–0.4",
+            "count": 149,
+            "meanProbability": 0.3468,
+            "observedRate": 0.349
+          },
+          {
+            "bucket": "0.4–0.5",
+            "count": 125,
+            "meanProbability": 0.4477,
+            "observedRate": 0.368
+          },
+          {
+            "bucket": "0.5–0.6",
+            "count": 92,
+            "meanProbability": 0.548,
+            "observedRate": 0.663
+          },
+          {
+            "bucket": "0.6–0.7",
+            "count": 37,
+            "meanProbability": 0.655,
+            "observedRate": 0.7568
+          },
+          {
+            "bucket": "0.7–0.8",
+            "count": 25,
+            "meanProbability": 0.7417,
+            "observedRate": 0.84
+          },
+          {
+            "bucket": "0.8–0.9",
+            "count": 15,
+            "meanProbability": 0.8304,
+            "observedRate": 0.8
+          },
+          {
+            "bucket": "0.9–1.0",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          }
+        ]
+      },
+      "alwaysHome": {
+        "evaluated": 338,
+        "pickHits": 164,
+        "pickRate": 0.4852,
+        "logLoss": 17.7803,
+        "brier": 1.0296,
+        "goals3PlusRate": 0.0,
+        "bothScoreRate": 0.0,
+        "calibration": [
+          {
+            "bucket": "0.0–0.1",
+            "count": 676,
+            "meanProbability": 0.0,
+            "observedRate": 0.2574
+          },
+          {
+            "bucket": "0.1–0.2",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.2–0.3",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.3–0.4",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.4–0.5",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.5–0.6",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.6–0.7",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.7–0.8",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.8–0.9",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.9–1.0",
+            "count": 338,
+            "meanProbability": 1.0,
+            "observedRate": 0.4852
+          }
+        ]
+      },
+      "trainingFrequency": {
+        "evaluated": 338,
+        "pickHits": 164,
+        "pickRate": 0.4852,
+        "logLoss": 1.0504,
+        "brier": 0.6329,
+        "goals3PlusRate": 0.0,
+        "bothScoreRate": 0.0,
+        "calibration": [
+          {
+            "bucket": "0.0–0.1",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.1–0.2",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.2–0.3",
+            "count": 676,
+            "meanProbability": 0.2719,
+            "observedRate": 0.2574
+          },
+          {
+            "bucket": "0.3–0.4",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.4–0.5",
+            "count": 338,
+            "meanProbability": 0.4561,
+            "observedRate": 0.4852
+          },
+          {
+            "bucket": "0.5–0.6",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.6–0.7",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.7–0.8",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.8–0.9",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.9–1.0",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          }
+        ]
+      },
+      "confidence": {
+        "low": {
+          "evaluated": 83,
+          "pickHits": 32,
+          "pickRate": 0.3855,
+          "logLoss": 1.0809,
+          "brier": 0.6554,
+          "goals3PlusRate": 0.4699,
+          "bothScoreRate": 0.506,
+          "calibration": [
+            {
+              "bucket": "0.0–0.1",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.1–0.2",
+              "count": 2,
+              "meanProbability": 0.1805,
+              "observedRate": 0.0
+            },
+            {
+              "bucket": "0.2–0.3",
+              "count": 90,
+              "meanProbability": 0.2615,
+              "observedRate": 0.2556
+            },
+            {
+              "bucket": "0.3–0.4",
+              "count": 118,
+              "meanProbability": 0.3557,
+              "observedRate": 0.3559
+            },
+            {
+              "bucket": "0.4–0.5",
+              "count": 33,
+              "meanProbability": 0.4182,
+              "observedRate": 0.4545
+            },
+            {
+              "bucket": "0.5–0.6",
+              "count": 6,
+              "meanProbability": 0.5538,
+              "observedRate": 0.5
+            },
+            {
+              "bucket": "0.6–0.7",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.7–0.8",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.8–0.9",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.9–1.0",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            }
+          ]
+        },
+        "medium": {
+          "evaluated": 145,
+          "pickHits": 64,
+          "pickRate": 0.4414,
+          "logLoss": 1.064,
+          "brier": 0.6416,
+          "goals3PlusRate": 0.5241,
+          "bothScoreRate": 0.5724,
+          "calibration": [
+            {
+              "bucket": "0.0–0.1",
+              "count": 1,
+              "meanProbability": 0.0809,
+              "observedRate": 0.0
+            },
+            {
+              "bucket": "0.1–0.2",
+              "count": 11,
+              "meanProbability": 0.1624,
+              "observedRate": 0.1818
+            },
+            {
+              "bucket": "0.2–0.3",
+              "count": 247,
+              "meanProbability": 0.2534,
+              "observedRate": 0.2794
+            },
+            {
+              "bucket": "0.3–0.4",
+              "count": 31,
+              "meanProbability": 0.3128,
+              "observedRate": 0.3226
+            },
+            {
+              "bucket": "0.4–0.5",
+              "count": 92,
+              "meanProbability": 0.4582,
+              "observedRate": 0.337
+            },
+            {
+              "bucket": "0.5–0.6",
+              "count": 49,
+              "meanProbability": 0.5267,
+              "observedRate": 0.6122
+            },
+            {
+              "bucket": "0.6–0.7",
+              "count": 2,
+              "meanProbability": 0.6935,
+              "observedRate": 0.5
+            },
+            {
+              "bucket": "0.7–0.8",
+              "count": 2,
+              "meanProbability": 0.7496,
+              "observedRate": 1.0
+            },
+            {
+              "bucket": "0.8–0.9",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.9–1.0",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            }
+          ]
+        },
+        "high": {
+          "evaluated": 110,
+          "pickHits": 86,
+          "pickRate": 0.7818,
+          "logLoss": 0.7067,
+          "brier": 0.388,
+          "goals3PlusRate": 0.6636,
+          "bothScoreRate": 0.5091,
+          "calibration": [
+            {
+              "bucket": "0.0–0.1",
+              "count": 29,
+              "meanProbability": 0.0732,
+              "observedRate": 0.0345
+            },
+            {
+              "bucket": "0.1–0.2",
+              "count": 120,
+              "meanProbability": 0.1561,
+              "observedRate": 0.125
+            },
+            {
+              "bucket": "0.2–0.3",
+              "count": 71,
+              "meanProbability": 0.2185,
+              "observedRate": 0.1127
+            },
+            {
+              "bucket": "0.3–0.4",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.4–0.5",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.5–0.6",
+              "count": 37,
+              "meanProbability": 0.5753,
+              "observedRate": 0.7568
+            },
+            {
+              "bucket": "0.6–0.7",
+              "count": 35,
+              "meanProbability": 0.6528,
+              "observedRate": 0.7714
+            },
+            {
+              "bucket": "0.7–0.8",
+              "count": 23,
+              "meanProbability": 0.741,
+              "observedRate": 0.8261
+            },
+            {
+              "bucket": "0.8–0.9",
+              "count": 15,
+              "meanProbability": 0.8304,
+              "observedRate": 0.8
+            },
+            {
+              "bucket": "0.9–1.0",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            }
+          ]
+        }
+      }
+    },
+    "2025-26": {
+      "model": {
+        "evaluated": 306,
+        "pickHits": 160,
+        "pickRate": 0.5229,
+        "logLoss": 0.9984,
+        "brier": 0.5964,
+        "goals3PlusRate": 0.5458,
+        "bothScoreRate": 0.4837,
+        "calibration": [
+          {
+            "bucket": "0.0–0.1",
+            "count": 19,
+            "meanProbability": 0.0761,
+            "observedRate": 0.0
+          },
+          {
+            "bucket": "0.1–0.2",
+            "count": 106,
+            "meanProbability": 0.1573,
+            "observedRate": 0.1981
+          },
+          {
+            "bucket": "0.2–0.3",
+            "count": 378,
+            "meanProbability": 0.2524,
+            "observedRate": 0.254
+          },
+          {
+            "bucket": "0.3–0.4",
+            "count": 160,
+            "meanProbability": 0.3463,
+            "observedRate": 0.3625
+          },
+          {
+            "bucket": "0.4–0.5",
+            "count": 116,
+            "meanProbability": 0.4437,
+            "observedRate": 0.3621
+          },
+          {
+            "bucket": "0.5–0.6",
+            "count": 76,
+            "meanProbability": 0.5435,
+            "observedRate": 0.6053
+          },
+          {
+            "bucket": "0.6–0.7",
+            "count": 33,
+            "meanProbability": 0.6517,
+            "observedRate": 0.697
+          },
+          {
+            "bucket": "0.7–0.8",
+            "count": 24,
+            "meanProbability": 0.7442,
+            "observedRate": 0.5833
+          },
+          {
+            "bucket": "0.8–0.9",
+            "count": 6,
+            "meanProbability": 0.8199,
+            "observedRate": 1.0
+          },
+          {
+            "bucket": "0.9–1.0",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          }
+        ]
+      },
+      "alwaysHome": {
+        "evaluated": 306,
+        "pickHits": 129,
+        "pickRate": 0.4216,
+        "logLoss": 19.9783,
+        "brier": 1.1569,
+        "goals3PlusRate": 0.0,
+        "bothScoreRate": 0.0,
+        "calibration": [
+          {
+            "bucket": "0.0–0.1",
+            "count": 612,
+            "meanProbability": 0.0,
+            "observedRate": 0.2892
+          },
+          {
+            "bucket": "0.1–0.2",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.2–0.3",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.3–0.4",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.4–0.5",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.5–0.6",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.6–0.7",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.7–0.8",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.8–0.9",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.9–1.0",
+            "count": 306,
+            "meanProbability": 1.0,
+            "observedRate": 0.4216
+          }
+        ]
+      },
+      "trainingFrequency": {
+        "evaluated": 306,
+        "pickHits": 129,
+        "pickRate": 0.4216,
+        "logLoss": 1.0871,
+        "brier": 0.6586,
+        "goals3PlusRate": 0.0,
+        "bothScoreRate": 0.0,
+        "calibration": [
+          {
+            "bucket": "0.0–0.1",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.1–0.2",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.2–0.3",
+            "count": 612,
+            "meanProbability": 0.2727,
+            "observedRate": 0.2892
+          },
+          {
+            "bucket": "0.3–0.4",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.4–0.5",
+            "count": 306,
+            "meanProbability": 0.4546,
+            "observedRate": 0.4216
+          },
+          {
+            "bucket": "0.5–0.6",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.6–0.7",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.7–0.8",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.8–0.9",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          },
+          {
+            "bucket": "0.9–1.0",
+            "count": 0,
+            "meanProbability": null,
+            "observedRate": null
+          }
+        ]
+      },
+      "confidence": {
+        "low": {
+          "evaluated": 87,
+          "pickHits": 46,
+          "pickRate": 0.5287,
+          "logLoss": 1.0307,
+          "brier": 0.6193,
+          "goals3PlusRate": 0.5172,
+          "bothScoreRate": 0.4598,
+          "calibration": [
+            {
+              "bucket": "0.0–0.1",
+              "count": 1,
+              "meanProbability": 0.0796,
+              "observedRate": 0.0
+            },
+            {
+              "bucket": "0.1–0.2",
+              "count": 5,
+              "meanProbability": 0.172,
+              "observedRate": 0.0
+            },
+            {
+              "bucket": "0.2–0.3",
+              "count": 88,
+              "meanProbability": 0.2687,
+              "observedRate": 0.2273
+            },
+            {
+              "bucket": "0.3–0.4",
+              "count": 131,
+              "meanProbability": 0.3533,
+              "observedRate": 0.3817
+            },
+            {
+              "bucket": "0.4–0.5",
+              "count": 30,
+              "meanProbability": 0.4168,
+              "observedRate": 0.3667
+            },
+            {
+              "bucket": "0.5–0.6",
+              "count": 4,
+              "meanProbability": 0.5446,
+              "observedRate": 1.0
+            },
+            {
+              "bucket": "0.6–0.7",
+              "count": 1,
+              "meanProbability": 0.6943,
+              "observedRate": 1.0
+            },
+            {
+              "bucket": "0.7–0.8",
+              "count": 1,
+              "meanProbability": 0.7568,
+              "observedRate": 1.0
+            },
+            {
+              "bucket": "0.8–0.9",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.9–1.0",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            }
+          ]
+        },
+        "medium": {
+          "evaluated": 136,
+          "pickHits": 55,
+          "pickRate": 0.4044,
+          "logLoss": 1.0912,
+          "brier": 0.6602,
+          "goals3PlusRate": 0.5221,
+          "bothScoreRate": 0.5074,
+          "calibration": [
+            {
+              "bucket": "0.0–0.1",
+              "count": 2,
+              "meanProbability": 0.0683,
+              "observedRate": 0.0
+            },
+            {
+              "bucket": "0.1–0.2",
+              "count": 8,
+              "meanProbability": 0.154,
+              "observedRate": 0.375
+            },
+            {
+              "bucket": "0.2–0.3",
+              "count": 233,
+              "meanProbability": 0.2546,
+              "observedRate": 0.3004
+            },
+            {
+              "bucket": "0.3–0.4",
+              "count": 29,
+              "meanProbability": 0.3148,
+              "observedRate": 0.2759
+            },
+            {
+              "bucket": "0.4–0.5",
+              "count": 86,
+              "meanProbability": 0.453,
+              "observedRate": 0.3605
+            },
+            {
+              "bucket": "0.5–0.6",
+              "count": 45,
+              "meanProbability": 0.5266,
+              "observedRate": 0.4667
+            },
+            {
+              "bucket": "0.6–0.7",
+              "count": 3,
+              "meanProbability": 0.643,
+              "observedRate": 0.3333
+            },
+            {
+              "bucket": "0.7–0.8",
+              "count": 1,
+              "meanProbability": 0.7851,
+              "observedRate": 1.0
+            },
+            {
+              "bucket": "0.8–0.9",
+              "count": 1,
+              "meanProbability": 0.8009,
+              "observedRate": 1.0
+            },
+            {
+              "bucket": "0.9–1.0",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            }
+          ]
+        },
+        "high": {
+          "evaluated": 83,
+          "pickHits": 59,
+          "pickRate": 0.7108,
+          "logLoss": 0.8125,
+          "brier": 0.468,
+          "goals3PlusRate": 0.6145,
+          "bothScoreRate": 0.4699,
+          "calibration": [
+            {
+              "bucket": "0.0–0.1",
+              "count": 16,
+              "meanProbability": 0.0768,
+              "observedRate": 0.0
+            },
+            {
+              "bucket": "0.1–0.2",
+              "count": 93,
+              "meanProbability": 0.1568,
+              "observedRate": 0.1935
+            },
+            {
+              "bucket": "0.2–0.3",
+              "count": 57,
+              "meanProbability": 0.2183,
+              "observedRate": 0.1053
+            },
+            {
+              "bucket": "0.3–0.4",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.4–0.5",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            },
+            {
+              "bucket": "0.5–0.6",
+              "count": 27,
+              "meanProbability": 0.5715,
+              "observedRate": 0.7778
+            },
+            {
+              "bucket": "0.6–0.7",
+              "count": 29,
+              "meanProbability": 0.6511,
+              "observedRate": 0.7241
+            },
+            {
+              "bucket": "0.7–0.8",
+              "count": 22,
+              "meanProbability": 0.7418,
+              "observedRate": 0.5455
+            },
+            {
+              "bucket": "0.8–0.9",
+              "count": 5,
+              "meanProbability": 0.8237,
+              "observedRate": 1.0
+            },
+            {
+              "bucket": "0.9–1.0",
+              "count": 0,
+              "meanProbability": null,
+              "observedRate": null
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "generatedAt": "2026-11-18T06:00:00Z",
+  "season": {
+    "evaluated": 98,
+    "pickHits": 50,
+    "pickRate": 0.5102,
+    "goals3PlusHits": 64,
+    "bothScoreHits": 49,
+    "brier": 0.5796,
+    "liveEvaluated": 0,
+    "livePickHits": 0
+  },
+  "lastMatchDay": {
+    "date": "2026-11-08",
+    "evaluated": 9,
+    "pickHits": 8,
+    "goals3PlusHits": 7,
+    "bothScoreHits": 3
+  },
+  "byDay": [
+    {
+      "date": "2026-11-08",
+      "evaluated": 9,
+      "pickHits": 8,
+      "goals3PlusHits": 7,
+      "bothScoreHits": 3
+    },
+    {
+      "date": "2026-11-01",
+      "evaluated": 9,
+      "pickHits": 5,
+      "goals3PlusHits": 7,
+      "bothScoreHits": 6
+    },
+    {
+      "date": "2026-10-25",
+      "evaluated": 9,
+      "pickHits": 7,
+      "goals3PlusHits": 5,
+      "bothScoreHits": 4
+    },
+    {
+      "date": "2026-10-18",
+      "evaluated": 8,
+      "pickHits": 7,
+      "goals3PlusHits": 3,
+      "bothScoreHits": 3
+    },
+    {
+      "date": "2026-10-11",
+      "evaluated": 9,
+      "pickHits": 5,
+      "goals3PlusHits": 6,
+      "bothScoreHits": 3
+    },
+    {
+      "date": "2026-09-20",
+      "evaluated": 4,
+      "pickHits": 2,
+      "goals3PlusHits": 4,
+      "bothScoreHits": 3
+    },
+    {
+      "date": "2026-09-19",
+      "evaluated": 4,
+      "pickHits": 2,
+      "goals3PlusHits": 4,
+      "bothScoreHits": 2
+    },
+    {
+      "date": "2026-09-18",
+      "evaluated": 1,
+      "pickHits": 0,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 0
+    },
+    {
+      "date": "2026-09-14",
+      "evaluated": 1,
+      "pickHits": 0,
+      "goals3PlusHits": 0,
+      "bothScoreHits": 0
+    },
+    {
+      "date": "2026-09-13",
+      "evaluated": 3,
+      "pickHits": 1,
+      "goals3PlusHits": 2,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-09-12",
+      "evaluated": 4,
+      "pickHits": 0,
+      "goals3PlusHits": 2,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-09-11",
+      "evaluated": 1,
+      "pickHits": 1,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-09-07",
+      "evaluated": 2,
+      "pickHits": 0,
+      "goals3PlusHits": 2,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-09-06",
+      "evaluated": 4,
+      "pickHits": 1,
+      "goals3PlusHits": 2,
+      "bothScoreHits": 3
+    },
+    {
+      "date": "2026-09-05",
+      "evaluated": 2,
+      "pickHits": 0,
+      "goals3PlusHits": 2,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-09-04",
+      "evaluated": 1,
+      "pickHits": 1,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-08-31",
+      "evaluated": 2,
+      "pickHits": 1,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-08-30",
+      "evaluated": 3,
+      "pickHits": 2,
+      "goals3PlusHits": 0,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-08-29",
+      "evaluated": 3,
+      "pickHits": 1,
+      "goals3PlusHits": 2,
+      "bothScoreHits": 2
+    },
+    {
+      "date": "2026-08-28",
+      "evaluated": 1,
+      "pickHits": 0,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 0
+    },
+    {
+      "date": "2026-08-24",
+      "evaluated": 1,
+      "pickHits": 0,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-08-23",
+      "evaluated": 4,
+      "pickHits": 1,
+      "goals3PlusHits": 4,
+      "bothScoreHits": 2
+    },
+    {
+      "date": "2026-08-22",
+      "evaluated": 3,
+      "pickHits": 1,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-08-21",
+      "evaluated": 1,
+      "pickHits": 1,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-08-17",
+      "evaluated": 1,
+      "pickHits": 0,
+      "goals3PlusHits": 0,
+      "bothScoreHits": 1
+    },
+    {
+      "date": "2026-08-16",
+      "evaluated": 3,
+      "pickHits": 3,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 3
+    },
+    {
+      "date": "2026-08-15",
+      "evaluated": 4,
+      "pickHits": 0,
+      "goals3PlusHits": 2,
+      "bothScoreHits": 3
+    },
+    {
+      "date": "2026-08-14",
+      "evaluated": 1,
+      "pickHits": 0,
+      "goals3PlusHits": 1,
+      "bothScoreHits": 0
+    }
+  ],
+  "byRound": [
+    {
+      "round": 11,
+      "evaluated": 9,
+      "pickHits": 8,
+      "goals3PlusHits": 7,
+      "bothScoreHits": 3
+    },
+    {
+      "round": 10,
+      "evaluated": 9,
+      "pickHits": 5,
+      "goals3PlusHits": 7,
+      "bothScoreHits": 6
+    },
+    {
+      "round": 9,
+      "evaluated": 9,
+      "pickHits": 7,
+      "goals3PlusHits": 5,
+      "bothScoreHits": 4
+    },
+    {
+      "round": 8,
+      "evaluated": 8,
+      "pickHits": 7,
+      "goals3PlusHits": 3,
+      "bothScoreHits": 3
+    },
+    {
+      "round": 7,
+      "evaluated": 9,
+      "pickHits": 5,
+      "goals3PlusHits": 6,
+      "bothScoreHits": 3
+    },
+    {
+      "round": 6,
+      "evaluated": 9,
+      "pickHits": 4,
+      "goals3PlusHits": 9,
+      "bothScoreHits": 5
+    },
+    {
+      "round": 5,
+      "evaluated": 9,
+      "pickHits": 2,
+      "goals3PlusHits": 5,
+      "bothScoreHits": 3
+    },
+    {
+      "round": 4,
+      "evaluated": 9,
+      "pickHits": 2,
+      "goals3PlusHits": 7,
+      "bothScoreHits": 6
+    },
+    {
+      "round": 3,
+      "evaluated": 9,
+      "pickHits": 4,
+      "goals3PlusHits": 4,
+      "bothScoreHits": 4
+    },
+    {
+      "round": 2,
+      "evaluated": 9,
+      "pickHits": 3,
+      "goals3PlusHits": 7,
+      "bothScoreHits": 5
+    },
+    {
+      "round": 1,
+      "evaluated": 9,
+      "pickHits": 3,
+      "goals3PlusHits": 4,
+      "bothScoreHits": 7
+    }
+  ]
+}

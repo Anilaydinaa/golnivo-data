@@ -1,0 +1,740 @@
+{
+  "2026-27-amedspor-caykur-rizespor": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 2.8458,
+      "away": 1.2185
+    },
+    "probabilities": {
+      "home": 0.7102,
+      "draw": 0.1533,
+      "away": 0.1365
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 2,
+        "away": 1,
+        "p": 0.0848
+      },
+      {
+        "home": 3,
+        "away": 1,
+        "p": 0.0804
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "p": 0.0696
+      }
+    ],
+    "goals3Plus": 0.7711,
+    "bothScore": 0.6634,
+    "confidence": "medium",
+    "reasons": [
+      "Amedspor: bu sezon 6 iç saha maçında 19 gol attı, 4 gol yedi.",
+      "Beklenen gol: Amedspor 2,85, Çaykur Rizespor 1,22.",
+      "Sezon sıralaması: Amedspor 3, Çaykur Rizespor 10."
+    ]
+  },
+  "2026-27-basaksehir-corum-fk": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 2.4142,
+      "away": 1.3623
+    },
+    "probabilities": {
+      "home": 0.6068,
+      "draw": 0.1881,
+      "away": 0.2051
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 2,
+        "away": 1,
+        "p": 0.0909
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.0753
+      },
+      {
+        "home": 3,
+        "away": 1,
+        "p": 0.0732
+      }
+    ],
+    "goals3Plus": 0.7273,
+    "bothScore": 0.6774,
+    "confidence": "medium",
+    "reasons": [
+      "Beklenen gol: Başakşehir 2,41, Çorum FK 1,36.",
+      "Başakşehir: bu sezon 6 iç saha maçında 16 gol attı, 7 gol yedi.",
+      "Son 5 maç: Başakşehir 10 puan, Çorum FK 6 puan."
+    ]
+  },
+  "2026-27-erzurumspor-fk-goztepe": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.0384,
+      "away": 1.386
+    },
+    "probabilities": {
+      "home": 0.2816,
+      "draw": 0.2698,
+      "away": 0.4486
+    },
+    "pick": "away",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1274
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "p": 0.1227
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "p": 0.0919
+      }
+    ],
+    "goals3Plus": 0.4367,
+    "bothScore": 0.4845,
+    "confidence": "medium",
+    "reasons": [
+      "Beklenen gol: Erzurumspor FK 1,04, Göztepe 1,39.",
+      "Son 5 maç: Erzurumspor FK 7 puan, Göztepe 12 puan.",
+      "Göztepe: bu sezon 6 deplasman maçında 15 gol attı, 10 gol yedi."
+    ]
+  },
+  "2026-27-galatasaray-samsunspor": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 2.9359,
+      "away": 0.8857
+    },
+    "probabilities": {
+      "home": 0.7885,
+      "draw": 0.1285,
+      "away": 0.083
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 2,
+        "away": 0,
+        "p": 0.0944
+      },
+      {
+        "home": 3,
+        "away": 0,
+        "p": 0.0924
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "p": 0.0836
+      }
+    ],
+    "goals3Plus": 0.7345,
+    "bothScore": 0.5564,
+    "confidence": "high",
+    "reasons": [
+      "Sezon sıralaması: Galatasaray 1, Samsunspor 17.",
+      "Beklenen gol: Galatasaray 2,94, Samsunspor 0,89.",
+      "Son 5 maç: Galatasaray 15 puan, Samsunspor 3 puan."
+    ]
+  },
+  "2026-27-genclerbirligi-gaziantep-fk": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.5117,
+      "away": 1.041
+    },
+    "probabilities": {
+      "home": 0.4812,
+      "draw": 0.2579,
+      "away": 0.2609
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1225
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "p": 0.1177
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "p": 0.0926
+      }
+    ],
+    "goals3Plus": 0.4696,
+    "bothScore": 0.5042,
+    "confidence": "medium",
+    "reasons": [
+      "Beklenen gol: Gençlerbirliği 1,51, Gaziantep FK 1,04.",
+      "Son 5 maç: Gençlerbirliği 4 puan, Gaziantep FK 0 puan.",
+      "Gençlerbirliği: bu sezon 6 iç saha maçında 11 gol attı, 7 gol yedi."
+    ]
+  },
+  "2026-27-kasimpasa-alanyaspor": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.5333,
+      "away": 0.9618
+    },
+    "probabilities": {
+      "home": 0.5058,
+      "draw": 0.2571,
+      "away": 0.2371
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 0,
+        "p": 0.1265
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1216
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "p": 0.097
+      }
+    ],
+    "goals3Plus": 0.4549,
+    "bothScore": 0.4845,
+    "confidence": "medium",
+    "reasons": [
+      "Son 5 maç: Kasımpaşa 10 puan, Alanyaspor 1 puan.",
+      "Beklenen gol: Kasımpaşa 1,53, Alanyaspor 0,96.",
+      "Sezon sıralaması: Kasımpaşa 5, Alanyaspor 13."
+    ]
+  },
+  "2026-27-kocaelispor-fenerbahce": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 0.88,
+      "away": 1.5023
+    },
+    "probabilities": {
+      "home": 0.2206,
+      "draw": 0.2612,
+      "away": 0.5182
+    },
+    "pick": "away",
+    "topScores": [
+      {
+        "home": 0,
+        "away": 1,
+        "p": 0.1387
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1221
+      },
+      {
+        "home": 0,
+        "away": 2,
+        "p": 0.1042
+      }
+    ],
+    "goals3Plus": 0.4257,
+    "bothScore": 0.455,
+    "confidence": "medium",
+    "reasons": [
+      "Beklenen gol: Kocaelispor 0,88, Fenerbahçe 1,50.",
+      "Fenerbahçe: bu sezon 6 deplasman maçında 12 gol attı, 4 gol yedi.",
+      "Kocaelispor: bu sezon 5 iç saha maçında 6 gol attı, 2 gol yedi."
+    ]
+  },
+  "2026-27-konyaspor-besiktas": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 0.976,
+      "away": 1.435
+    },
+    "probabilities": {
+      "home": 0.2565,
+      "draw": 0.2669,
+      "away": 0.4766
+    },
+    "pick": "away",
+    "topScores": [
+      {
+        "home": 0,
+        "away": 1,
+        "p": 0.1288
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1257
+      },
+      {
+        "home": 0,
+        "away": 2,
+        "p": 0.0924
+      }
+    ],
+    "goals3Plus": 0.4332,
+    "bothScore": 0.4748,
+    "confidence": "medium",
+    "reasons": [
+      "Sezon sıralaması: Konyaspor 15, Beşiktaş 4.",
+      "Aralarındaki 12 maç: 2 Konyaspor galibiyeti, 1 beraberlik, 9 Beşiktaş galibiyeti.",
+      "Beklenen gol: Konyaspor 0,98, Beşiktaş 1,44."
+    ]
+  },
+  "2026-27-trabzonspor-eyupspor": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 2.661,
+      "away": 0.6459
+    },
+    "probabilities": {
+      "home": 0.8009,
+      "draw": 0.1324,
+      "away": 0.0667
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 2,
+        "away": 0,
+        "p": 0.1297
+      },
+      {
+        "home": 3,
+        "away": 0,
+        "p": 0.115
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "p": 0.0975
+      }
+    ],
+    "goals3Plus": 0.6419,
+    "bothScore": 0.4426,
+    "confidence": "high",
+    "reasons": [
+      "Eyüpspor: bu sezon 5 deplasman maçında 1 gol attı, 19 gol yedi.",
+      "Son 5 maç: Trabzonspor 15 puan, Eyüpspor 0 puan.",
+      "Trabzonspor: bu sezon 5 iç saha maçında 15 gol attı, 1 gol yedi."
+    ]
+  },
+  "2026-27-alanyaspor-konyaspor": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.2068,
+      "away": 0.9526
+    },
+    "probabilities": {
+      "home": 0.4186,
+      "draw": 0.2914,
+      "away": 0.29
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 0,
+        "p": 0.1393
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1327
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "p": 0.1154
+      }
+    ],
+    "goals3Plus": 0.3664,
+    "bothScore": 0.4305,
+    "confidence": "low",
+    "reasons": [
+      "Aralarındaki 12 maç: 8 Alanyaspor galibiyeti, 1 beraberlik, 3 Konyaspor galibiyeti.",
+      "Beklenen gol: Alanyaspor 1,21, Konyaspor 0,95.",
+      "Konyaspor: bu sezon 5 deplasman maçında 2 gol attı, 7 gol yedi."
+    ]
+  },
+  "2026-27-besiktas-galatasaray": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.5102,
+      "away": 1.6465
+    },
+    "probabilities": {
+      "home": 0.353,
+      "draw": 0.2355,
+      "away": 0.4115
+    },
+    "pick": "away",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1058
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "p": 0.0871
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "p": 0.0799
+      }
+    ],
+    "goals3Plus": 0.611,
+    "bothScore": 0.629,
+    "confidence": "low",
+    "reasons": [
+      "Beşiktaş: bu sezon 6 iç saha maçında 17 gol attı, 3 gol yedi.",
+      "Galatasaray: bu sezon 5 deplasman maçında 12 gol attı, 6 gol yedi.",
+      "Beklenen gol: Beşiktaş 1,51, Galatasaray 1,65."
+    ]
+  },
+  "2026-27-caykur-rizespor-kasimpasa": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.4745,
+      "away": 1.3203
+    },
+    "probabilities": {
+      "home": 0.4089,
+      "draw": 0.2522,
+      "away": 0.3389
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.119
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "p": 0.0901
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "p": 0.0877
+      }
+    ],
+    "goals3Plus": 0.5293,
+    "bothScore": 0.5652,
+    "confidence": "low",
+    "reasons": [
+      "Aralarındaki 12 maç: 2 Çaykur Rizespor galibiyeti, 3 beraberlik, 7 Kasımpaşa galibiyeti.",
+      "Çaykur Rizespor: bu sezon 5 iç saha maçında 5 gol attı, 11 gol yedi.",
+      "Beklenen gol: Çaykur Rizespor 1,47, Kasımpaşa 1,32."
+    ]
+  },
+  "2026-27-corum-fk-kocaelispor": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.3985,
+      "away": 1.093
+    },
+    "probabilities": {
+      "home": 0.4393,
+      "draw": 0.2667,
+      "away": 0.294
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1265
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "p": 0.1158
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "p": 0.0905
+      }
+    ],
+    "goals3Plus": 0.454,
+    "bothScore": 0.5006,
+    "confidence": "medium",
+    "reasons": [
+      "Beklenen gol: Çorum FK 1,40, Kocaelispor 1,09.",
+      "Çorum FK: bu sezon 4 iç saha maçında 4 gol attı, 8 gol yedi.",
+      "Sezon sıralaması: Çorum FK 12, Kocaelispor 7."
+    ]
+  },
+  "2026-27-eyupspor-basaksehir": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 0.9602,
+      "away": 1.8971
+    },
+    "probabilities": {
+      "home": 0.1865,
+      "draw": 0.2205,
+      "away": 0.593
+    },
+    "pick": "away",
+    "topScores": [
+      {
+        "home": 0,
+        "away": 1,
+        "p": 0.1089
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1046
+      },
+      {
+        "home": 0,
+        "away": 2,
+        "p": 0.1033
+      }
+    ],
+    "goals3Plus": 0.5441,
+    "bothScore": 0.5246,
+    "confidence": "high",
+    "reasons": [
+      "Son 5 maç: Eyüpspor 0 puan, Başakşehir 10 puan.",
+      "Beklenen gol: Eyüpspor 0,96, Başakşehir 1,90.",
+      "Sezon sıralaması: Eyüpspor 18, Başakşehir 8."
+    ]
+  },
+  "2026-27-fenerbahce-erzurumspor-fk": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 2.6786,
+      "away": 0.6858
+    },
+    "probabilities": {
+      "home": 0.7949,
+      "draw": 0.134,
+      "away": 0.0711
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 2,
+        "away": 0,
+        "p": 0.1241
+      },
+      {
+        "home": 3,
+        "away": 0,
+        "p": 0.1108
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "p": 0.0926
+      }
+    ],
+    "goals3Plus": 0.6533,
+    "bothScore": 0.4622,
+    "confidence": "medium",
+    "reasons": [
+      "Beklenen gol: Fenerbahçe 2,68, Erzurumspor FK 0,69.",
+      "Aralarındaki 4 maç: 3 Fenerbahçe galibiyeti, 1 beraberlik, 0 Erzurumspor FK galibiyeti.",
+      "Fenerbahçe: bu sezon 5 iç saha maçında 17 gol attı, 6 gol yedi."
+    ]
+  },
+  "2026-27-gaziantep-fk-amedspor": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.2646,
+      "away": 2.3309
+    },
+    "probabilities": {
+      "home": 0.1965,
+      "draw": 0.1916,
+      "away": 0.6119
+    },
+    "pick": "away",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 2,
+        "p": 0.0943
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.0809
+      },
+      {
+        "home": 0,
+        "away": 2,
+        "p": 0.0746
+      }
+    ],
+    "goals3Plus": 0.6964,
+    "bothScore": 0.6479,
+    "confidence": "medium",
+    "reasons": [
+      "Sezon sıralaması: Gaziantep FK 16, Amedspor 3.",
+      "Son 5 maç: Gaziantep FK 0 puan, Amedspor 10 puan.",
+      "Beklenen gol: Gaziantep FK 1,26, Amedspor 2,33."
+    ]
+  },
+  "2026-27-goztepe-trabzonspor": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.338,
+      "away": 1.5718
+    },
+    "probabilities": {
+      "home": 0.3253,
+      "draw": 0.2454,
+      "away": 0.4293
+    },
+    "pick": "away",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1146
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "p": 0.0901
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "p": 0.0856
+      }
+    ],
+    "goals3Plus": 0.5563,
+    "bothScore": 0.5844,
+    "confidence": "medium",
+    "reasons": [
+      "Beklenen gol: Göztepe 1,34, Trabzonspor 1,57.",
+      "Sezon sıralaması: Göztepe 9, Trabzonspor 2.",
+      "Trabzonspor: bu sezon 6 deplasman maçında 11 gol attı, 7 gol yedi."
+    ]
+  },
+  "2026-27-samsunspor-genclerbirligi": {
+    "frozen": false,
+    "backfilled": false,
+    "publishedAt": "2026-11-18T06:00:00Z",
+    "modelVersion": "poisson-tw-1",
+    "expectedGoals": {
+      "home": 1.526,
+      "away": 1.171
+    },
+    "probabilities": {
+      "home": 0.4546,
+      "draw": 0.2536,
+      "away": 0.2918
+    },
+    "pick": "home",
+    "topScores": [
+      {
+        "home": 1,
+        "away": 1,
+        "p": 0.1205
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "p": 0.1029
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "p": 0.0919
+      }
+    ],
+    "goals3Plus": 0.5056,
+    "bothScore": 0.5399,
+    "confidence": "medium",
+    "reasons": [
+      "Gençlerbirliği: bu sezon 5 deplasman maçında 1 gol attı, 14 gol yedi.",
+      "Samsunspor: bu sezon 6 iç saha maçında 6 gol attı, 15 gol yedi.",
+      "Beklenen gol: Samsunspor 1,53, Gençlerbirliği 1,17."
+    ]
+  }
+}

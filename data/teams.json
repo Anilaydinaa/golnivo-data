@@ -1,0 +1,287 @@
+[
+  {
+    "id": "adana-demirspor",
+    "name": "Adana Demirspor",
+    "aliases": [],
+    "wikiCodes": [
+      "ADA"
+    ]
+  },
+  {
+    "id": "akhisarspor",
+    "name": "Akhisarspor",
+    "aliases": [
+      "Akhisar Belediyespor"
+    ],
+    "wikiCodes": [
+      "AKH"
+    ]
+  },
+  {
+    "id": "alanyaspor",
+    "name": "Alanyaspor",
+    "aliases": [
+      "Aytemiz Alanyaspor"
+    ],
+    "wikiCodes": [
+      "ALA"
+    ]
+  },
+  {
+    "id": "amedspor",
+    "name": "Amedspor",
+    "aliases": [
+      "Amed"
+    ],
+    "wikiCodes": [
+      "AME"
+    ]
+  },
+  {
+    "id": "antalyaspor",
+    "name": "Antalyaspor",
+    "aliases": [],
+    "wikiCodes": [
+      "ANT"
+    ]
+  },
+  {
+    "id": "konyaspor",
+    "name": "Konyaspor",
+    "aliases": [
+      "Atiker Konyaspor"
+    ],
+    "wikiCodes": [
+      "KON"
+    ]
+  },
+  {
+    "id": "erzurumspor-fk",
+    "name": "Erzurumspor FK",
+    "aliases": [
+      "BB Erzurumspor",
+      "Erzurumspor"
+    ],
+    "wikiCodes": [
+      "ERZ"
+    ]
+  },
+  {
+    "id": "besiktas",
+    "name": "Beşiktaş",
+    "aliases": [],
+    "wikiCodes": [
+      "BEŞ"
+    ]
+  },
+  {
+    "id": "bodrum-fk",
+    "name": "Bodrum FK",
+    "aliases": [],
+    "wikiCodes": [
+      "BOD"
+    ]
+  },
+  {
+    "id": "bursaspor",
+    "name": "Bursaspor",
+    "aliases": [],
+    "wikiCodes": [
+      "BUR"
+    ]
+  },
+  {
+    "id": "denizlispor",
+    "name": "Denizlispor",
+    "aliases": [],
+    "wikiCodes": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "eyupspor",
+    "name": "Eyüpspor",
+    "aliases": [],
+    "wikiCodes": [
+      "EYÜ"
+    ]
+  },
+  {
+    "id": "fatih-karagumruk",
+    "name": "Fatih Karagümrük",
+    "aliases": [],
+    "wikiCodes": [
+      "FKA"
+    ]
+  },
+  {
+    "id": "fenerbahce",
+    "name": "Fenerbahçe",
+    "aliases": [],
+    "wikiCodes": [
+      "FEN"
+    ]
+  },
+  {
+    "id": "galatasaray",
+    "name": "Galatasaray",
+    "aliases": [],
+    "wikiCodes": [
+      "GAL"
+    ]
+  },
+  {
+    "id": "gaziantep-fk",
+    "name": "Gaziantep FK",
+    "aliases": [
+      "Gazişehir Gaziantep FK",
+      "Gaziantep"
+    ],
+    "wikiCodes": [
+      "GAZ"
+    ]
+  },
+  {
+    "id": "genclerbirligi",
+    "name": "Gençlerbirliği",
+    "aliases": [
+      "Gençlerbirligi"
+    ],
+    "wikiCodes": [
+      "GEN"
+    ]
+  },
+  {
+    "id": "goztepe",
+    "name": "Göztepe",
+    "aliases": [],
+    "wikiCodes": [
+      "GÖZ"
+    ]
+  },
+  {
+    "id": "hatayspor",
+    "name": "Hatayspor",
+    "aliases": [],
+    "wikiCodes": [
+      "HAT"
+    ]
+  },
+  {
+    "id": "kasimpasa",
+    "name": "Kasımpaşa",
+    "aliases": [
+      "Kasımpaşa SK",
+      "Kasimpasa"
+    ],
+    "wikiCodes": [
+      "KAS"
+    ]
+  },
+  {
+    "id": "kayserispor",
+    "name": "Kayserispor",
+    "aliases": [],
+    "wikiCodes": [
+      "KAY"
+    ]
+  },
+  {
+    "id": "kocaelispor",
+    "name": "Kocaelispor",
+    "aliases": [],
+    "wikiCodes": [
+      "KOC"
+    ]
+  },
+  {
+    "id": "ankaragucu",
+    "name": "Ankaragücü",
+    "aliases": [
+      "MKE Ankaragücü"
+    ],
+    "wikiCodes": [
+      "ANK"
+    ]
+  },
+  {
+    "id": "pendikspor",
+    "name": "Pendikspor",
+    "aliases": [],
+    "wikiCodes": [
+      "PEN"
+    ]
+  },
+  {
+    "id": "samsunspor",
+    "name": "Samsunspor",
+    "aliases": [],
+    "wikiCodes": [
+      "SAM"
+    ]
+  },
+  {
+    "id": "sivasspor",
+    "name": "Sivasspor",
+    "aliases": [],
+    "wikiCodes": [
+      "SİV"
+    ]
+  },
+  {
+    "id": "trabzonspor",
+    "name": "Trabzonspor",
+    "aliases": [],
+    "wikiCodes": [
+      "TRA"
+    ]
+  },
+  {
+    "id": "yeni-malatyaspor",
+    "name": "Yeni Malatyaspor",
+    "aliases": [],
+    "wikiCodes": [
+      "YMA"
+    ]
+  },
+  {
+    "id": "caykur-rizespor",
+    "name": "Çaykur Rizespor",
+    "aliases": [
+      "Rizespor"
+    ],
+    "wikiCodes": [
+      "RİZ"
+    ]
+  },
+  {
+    "id": "corum-fk",
+    "name": "Çorum FK",
+    "aliases": [
+      "Çorum"
+    ],
+    "wikiCodes": [
+      "ÇOR"
+    ]
+  },
+  {
+    "id": "basaksehir",
+    "name": "Başakşehir",
+    "aliases": [
+      "İstanbul Başakşehir"
+    ],
+    "wikiCodes": [
+      "BAŞ"
+    ]
+  },
+  {
+    "id": "istanbulspor",
+    "name": "İstanbulspor",
+    "aliases": [
+      "İstanbulspor AŞ"
+    ],
+    "wikiCodes": [
+      "İST"
+    ]
+  }
+]

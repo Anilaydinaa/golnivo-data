@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-18T06:00:00Z",
+  "season": "2026-27",
+  "competition": "Süper Lig",
+  "modelVersion": "poisson-tw-1",
+  "currentRound": 12,
+  "warnings": [
+    "2024-25: 4 sonuç eksik; bu maçlar eğitim ve test değerlendirmesine alınmadı.",
+    "1 geçmiş tarihli maçın sonucu kaynaklarda yok; tarih/durum elle doğrulanmalı.",
+    "openfootball 2021-22 ve 2022-23 eğitim sezonları veri setinde yok."
+  ],
+  "sources": [
+    {
+      "name": "openfootball",
+      "license": "CC0 1.0",
+      "url": "https://github.com/openfootball/europe"
+    },
+    {
+      "name": "Wikipedia katkıcıları",
+      "license": "CC BY-SA 4.0",
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_S%C3%BCper_Lig"
+    },
+    {
+      "name": "Wikipedia katkıcıları (2025–26)",
+      "license": "CC BY-SA 4.0",
+      "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_S%C3%BCper_Lig"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "generatedAt": "2026-11-18T06:00:00Z",
+  "rows": [
+    {
+      "team": {
+        "id": "galatasaray",
+        "name": "Galatasaray"
+      },
+      "played": 11,
+      "won": 9,
+      "drawn": 1,
+      "lost": 1,
+      "goalsFor": 27,
+      "goalsAgainst": 15,
+      "goalDiff": 12,
+      "points": 28,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "position": 1
+    },
+    {
+      "team": {
+        "id": "trabzonspor",
+        "name": "Trabzonspor"
+      },
+      "played": 11,
+      "won": 8,
+      "drawn": 1,
+      "lost": 2,
+      "goalsFor": 26,
+      "goalsAgainst": 8,
+      "goalDiff": 18,
+      "points": 25,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "position": 2
+    },
+    {
+      "team": {
+        "id": "amedspor",
+        "name": "Amedspor"
+      },
+      "played": 11,
+      "won": 7,
+      "drawn": 2,
+      "lost": 2,
+      "goalsFor": 28,
+      "goalsAgainst": 15,
+      "goalDiff": 13,
+      "points": 23,
+      "pointAdjustment": 0,
+      "form": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "D"
+      ],
+      "position": 3
+    },
+    {
+      "team": {
+        "id": "besiktas",
+        "name": "Beşiktaş"
+      },
+      "played": 11,
+      "won": 7,
+      "drawn": 1,
+      "lost": 3,
+      "goalsFor": 23,
+      "goalsAgainst": 12,
+      "goalDiff": 11,
+      "points": 22,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "position": 4
+    },
+    {
+      "team": {
+        "id": "kasimpasa",
+        "name": "Kasımpaşa"
+      },
+      "played": 11,
+      "won": 5,
+      "drawn": 5,
+      "lost": 1,
+      "goalsFor": 17,
+      "goalsAgainst": 11,
+      "goalDiff": 6,
+      "points": 20,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "position": 5
+    },
+    {
+      "team": {
+        "id": "fenerbahce",
+        "name": "Fenerbahçe"
+      },
+      "played": 11,
+      "won": 6,
+      "drawn": 1,
+      "lost": 4,
+      "goalsFor": 29,
+      "goalsAgainst": 10,
+      "goalDiff": 19,
+      "points": 19,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "position": 6
+    },
+    {
+      "team": {
+        "id": "kocaelispor",
+        "name": "Kocaelispor"
+      },
+      "played": 11,
+      "won": 6,
+      "drawn": 1,
+      "lost": 4,
+      "goalsFor": 13,
+      "goalsAgainst": 9,
+      "goalDiff": 4,
+      "points": 19,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "L"
+      ],
+      "position": 7
+    },
+    {
+      "team": {
+        "id": "basaksehir",
+        "name": "Başakşehir"
+      },
+      "played": 11,
+      "won": 5,
+      "drawn": 2,
+      "lost": 4,
+      "goalsFor": 19,
+      "goalsAgainst": 17,
+      "goalDiff": 2,
+      "points": 17,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "position": 8
+    },
+    {
+      "team": {
+        "id": "goztepe",
+        "name": "Göztepe"
+      },
+      "played": 11,
+      "won": 4,
+      "drawn": 3,
+      "lost": 4,
+      "goalsFor": 22,
+      "goalsAgainst": 19,
+      "goalDiff": 3,
+      "points": 15,
+      "pointAdjustment": 0,
+      "form": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "position": 9
+    },
+    {
+      "team": {
+        "id": "caykur-rizespor",
+        "name": "Çaykur Rizespor"
+      },
+      "played": 10,
+      "won": 4,
+      "drawn": 2,
+      "lost": 4,
+      "goalsFor": 12,
+      "goalsAgainst": 14,
+      "goalDiff": -2,
+      "points": 14,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "D",
+        "L",
+        "L",
+        "D"
+      ],
+      "position": 10
+    },
+    {
+      "team": {
+        "id": "erzurumspor-fk",
+        "name": "Erzurumspor FK"
+      },
+      "played": 11,
+      "won": 4,
+      "drawn": 2,
+      "lost": 5,
+      "goalsFor": 10,
+      "goalsAgainst": 17,
+      "goalDiff": -7,
+      "points": 14,
+      "pointAdjustment": 0,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "D"
+      ],
+      "position": 11
+    },
+    {
+      "team": {
+        "id": "corum-fk",
+        "name": "Çorum FK"
+      },
+      "played": 10,
+      "won": 4,
+      "drawn": 1,
+      "lost": 5,
+      "goalsFor": 19,
+      "goalsAgainst": 20,
+      "goalDiff": -1,
+      "points": 13,
+      "pointAdjustment": 0,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "position": 12
+    },
+    {
+      "team": {
+        "id": "alanyaspor",
+        "name": "Alanyaspor"
+      },
+      "played": 11,
+      "won": 3,
+      "drawn": 3,
+      "lost": 5,
+      "goalsFor": 9,
+      "goalsAgainst": 18,
+      "goalDiff": -9,
+      "points": 12,
+      "pointAdjustment": 0,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "position": 13
+    },
+    {
+      "team": {
+        "id": "genclerbirligi",
+        "name": "Gençlerbirliği"
+      },
+      "played": 11,
+      "won": 3,
+      "drawn": 2,
+      "lost": 6,
+      "goalsFor": 12,
+      "goalsAgainst": 21,
+      "goalDiff": -9,
+      "points": 11,
+      "pointAdjustment": 0,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "D"
+      ],
+      "position": 14
+    },
+    {
+      "team": {
+        "id": "konyaspor",
+        "name": "Konyaspor"
+      },
+      "played": 11,
+      "won": 2,
+      "drawn": 2,
+      "lost": 7,
+      "goalsFor": 6,
+      "goalsAgainst": 14,
+      "goalDiff": -8,
+      "points": 8,
+      "pointAdjustment": 0,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "D"
+      ],
+      "position": 15
+    },
+    {
+      "team": {
+        "id": "gaziantep-fk",
+        "name": "Gaziantep FK"
+      },
+      "played": 11,
+      "won": 2,
+      "drawn": 2,
+      "lost": 7,
+      "goalsFor": 9,
+      "goalsAgainst": 19,
+      "goalDiff": -10,
+      "points": 8,
+      "pointAdjustment": 0,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "position": 16
+    },
+    {
+      "team": {
+        "id": "samsunspor",
+        "name": "Samsunspor"
+      },
+      "played": 11,
+      "won": 2,
+      "drawn": 1,
+      "lost": 8,
+      "goalsFor": 11,
+      "goalsAgainst": 26,
+      "goalDiff": -15,
+      "points": 7,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "position": 17
+    },
+    {
+      "team": {
+        "id": "eyupspor",
+        "name": "Eyüpspor"
+      },
+      "played": 11,
+      "won": 1,
+      "drawn": 0,
+      "lost": 10,
+      "goalsFor": 3,
+      "goalsAgainst": 30,
+      "goalDiff": -27,
+      "points": 3,
+      "pointAdjustment": 0,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "position": 18
+    }
+  ],
+  "note": "Sıralama bitmiş maç sonuçlarından hesaplanır; resmî tabloyla farklılık olabilir."
+}

@@ -1,0 +1,56 @@
+name: Günlük veri üretimi
+on:
+  schedule:
+    - cron: '0 6 * * *'
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: golnivo-data
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+      - name: Bağımlılıklar
+        working-directory: pipeline
+        run: dart pub get
+      - name: Statik doğrulama
+        working-directory: pipeline
+        run: dart analyze
+      - name: Ağsız testler
+        working-directory: pipeline
+        run: dart test
+      - name: Gerçek veri üretimi
+        working-directory: pipeline
+        run: dart run bin/build.dart
+      - name: JSON sözleşmesi
+        working-directory: pipeline
+        run: dart run bin/validate.dart
+      - name: Veri değişikliklerini kaydet
+        run: |
+          git config user.name "golnivo-data[bot]"
+          git config user.email "golnivo-data[bot]@users.noreply.github.com"
+          git add data/ public/
+          if ! git diff --cached --quiet; then
+            git commit -m "Veri ve maç öncesi analiz güncellemesi"
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4

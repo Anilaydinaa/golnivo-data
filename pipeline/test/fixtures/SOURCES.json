@@ -1,0 +1,70 @@
+{
+  "downloadedOn": "2026-11-18",
+  "userAgent": "GolnivoDataBot/1.0 (+https://github.com/Anilaydinaa/golnivo-data)",
+  "note": "Ağdan indirilen değiştirilmemiş anlık kopyalar. Wikipedia katkıcıları; sonuçlar kimlik eşleştirmesiyle dönüştürülür. Wikipedia türevleri CC BY-SA 4.0.",
+  "sources": [
+    {
+      "file": "openfootball-2018-19.txt",
+      "url": "https://raw.githubusercontent.com/openfootball/europe/master/turkey/2018-19_tr1.txt",
+      "license": "CC0 1.0",
+      "sha256": "1c86bd28bbd7249b44d41ca91447fb0dd0667593a0fa4d7024f2a401d1bb3dfc",
+      "bytes": 25224
+    },
+    {
+      "file": "openfootball-2019-20.txt",
+      "url": "https://raw.githubusercontent.com/openfootball/europe/master/turkey/2019-20_tr1.txt",
+      "license": "CC0 1.0",
+      "sha256": "3d0751cb7a9553e4b12299c5855ed3ea4af1161f1238f2f293bf88a49a7c53a2",
+      "bytes": 25320
+    },
+    {
+      "file": "openfootball-2020-21.txt",
+      "url": "https://raw.githubusercontent.com/openfootball/europe/master/turkey/2020-21_tr1.txt",
+      "license": "CC0 1.0",
+      "sha256": "d69426490d74415c695cf0cbc83fcd671bfa802233d826a13d0a5b0522e727f2",
+      "bytes": 33954
+    },
+    {
+      "file": "openfootball-2023-24.txt",
+      "url": "https://raw.githubusercontent.com/openfootball/europe/master/turkey/2023-24_tr1.txt",
+      "license": "CC0 1.0",
+      "sha256": "f8abe03c4f1a9a649644adc221c62c2e87dc4e5900ad163bcdc495c0d2b3d423",
+      "bytes": 30897
+    },
+    {
+      "file": "openfootball-2024-25.txt",
+      "url": "https://raw.githubusercontent.com/openfootball/europe/master/turkey/2024-25_tr1.txt",
+      "license": "CC0 1.0",
+      "sha256": "a5afa521ac1c89f33e75122f0ecedda5288e5c95c3822804d05ad62d9738bf0f",
+      "bytes": 27948
+    },
+    {
+      "file": "openfootball-2025-26.txt",
+      "url": "https://raw.githubusercontent.com/openfootball/europe/master/turkey/2025-26_tr1.txt",
+      "license": "CC0 1.0",
+      "sha256": "0e9482c85212ae28fc5a346733473cd28f0b913f341c3b54f6809191a03a5fe1",
+      "bytes": 19968
+    },
+    {
+      "file": "openfootball-2026-27.txt",
+      "url": "https://raw.githubusercontent.com/openfootball/europe/master/turkey/2026-27_tr1.txt",
+      "license": "CC0 1.0",
+      "sha256": "86cf874e2c8986623d61a92b5e9fe69678b50edfbb3f7c24e8205b8bb50a3c0f",
+      "bytes": 17420
+    },
+    {
+      "file": "wikipedia-2025-26.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&page=2025%E2%80%9326+S%C3%BCper+Lig&prop=wikitext&format=json&formatversion=2",
+      "license": "CC BY-SA 4.0",
+      "sha256": "eb3c8fd49b818b6f9705443a3f4623ff2d0881b0888416122f8d6de3459701b1",
+      "bytes": 69526
+    },
+    {
+      "file": "wikipedia-2026-27.json",
+      "url": "https://en.wikipedia.org/w/api.php?action=parse&page=2026%E2%80%9327+S%C3%BCper+Lig&prop=wikitext&format=json&formatversion=2",
+      "license": "CC BY-SA 4.0",
+      "sha256": "9c20bf5838a6c74a92d0d7a5e3c7d6c5d5e003cac32ca1de140306c2d5ec798c",
+      "bytes": 57707
+    }
+  ]
+}

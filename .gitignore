@@ -1,0 +1,9 @@
+# Herkese açık veri reposu: yalnız pipeline/, data/, public/, .github/, docs/BACKTEST.md
+app/
+AGENTS.md
+docs/design/
+docs/ARASTIRMA.md
+pipeline/.dart_tool/
+pipeline/build/
+pipeline/*-run.log
+.DS_Store
