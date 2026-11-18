@@ -37,4 +37,6 @@ Game game(
       awayGoals: ag);
 }
 
-Directory testDirectory() => Directory('test/.tmp').createTempSync('case-');
+Directory testDirectory() =>
+    (Directory('test/.tmp')..createSync(recursive: true))
+        .createTempSync('case-');
