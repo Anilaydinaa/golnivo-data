@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T13:13:54.901323Z",
+  "generatedAt": "2026-11-19T02:43:43.553857Z",
   "season": "2026-27",
   "competition": "Süper Lig",
   "modelVersion": "poisson-tw-1",
-  "currentRound": 12,
+  "currentRound": 13,
   "warnings": [
     "2024-25: 4 sonuç eksik; bu maçlar eğitim ve test değerlendirmesine alınmadı.",
     "1 geçmiş tarihli maçın sonucu kaynaklarda yok; tarih/durum elle doğrulanmalı.",
