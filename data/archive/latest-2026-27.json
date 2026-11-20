@@ -2,10 +2,10 @@
   "2026-27-alanyaspor-konyaspor": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 1.207,
+      "home": 1.2071,
       "away": 0.9528
     },
     "probabilities": {
@@ -28,7 +28,7 @@
       {
         "home": 0,
         "away": 0,
-        "p": 0.1154
+        "p": 0.1153
       }
     ],
     "goals3Plus": 0.3665,
@@ -43,7 +43,7 @@
   "2026-27-besiktas-galatasaray": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
       "home": 1.5104,
@@ -84,7 +84,7 @@
   "2026-27-caykur-rizespor-kasimpasa": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
       "home": 1.4746,
@@ -125,10 +125,10 @@
   "2026-27-corum-fk-kocaelispor": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 1.3981,
+      "home": 1.398,
       "away": 1.093
     },
     "probabilities": {
@@ -155,7 +155,7 @@
       }
     ],
     "goals3Plus": 0.4539,
-    "bothScore": 0.5006,
+    "bothScore": 0.5005,
     "confidence": "medium",
     "reasons": [
       "Beklenen gol: Çorum FK 1,40, Kocaelispor 1,09.",
@@ -166,10 +166,10 @@
   "2026-27-eyupspor-basaksehir": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 0.9607,
+      "home": 0.9608,
       "away": 1.8967
     },
     "probabilities": {
@@ -207,11 +207,11 @@
   "2026-27-fenerbahce-erzurumspor-fk": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 2.6784,
-      "away": 0.6861
+      "home": 2.6783,
+      "away": 0.6862
     },
     "probabilities": {
       "home": 0.7948,
@@ -248,16 +248,16 @@
   "2026-27-gaziantep-fk-amedspor": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 1.2648,
-      "away": 2.3289
+      "home": 1.2649,
+      "away": 2.3283
     },
     "probabilities": {
-      "home": 0.1967,
-      "draw": 0.1917,
-      "away": 0.6116
+      "home": 0.1968,
+      "draw": 0.1918,
+      "away": 0.6114
     },
     "pick": "away",
     "topScores": [
@@ -277,7 +277,7 @@
         "p": 0.0746
       }
     ],
-    "goals3Plus": 0.6961,
+    "goals3Plus": 0.696,
     "bothScore": 0.6478,
     "confidence": "medium",
     "reasons": [
@@ -289,7 +289,7 @@
   "2026-27-goztepe-trabzonspor": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
       "home": 1.3382,
@@ -330,7 +330,7 @@
   "2026-27-samsunspor-genclerbirligi": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
       "home": 1.5261,
@@ -371,15 +371,15 @@
   "2026-27-amedspor-alanyaspor": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 2.5939,
-      "away": 1.012
+      "home": 2.5933,
+      "away": 1.0121
     },
     "probabilities": {
-      "home": 0.7133,
-      "draw": 0.1614,
+      "home": 0.7132,
+      "draw": 0.1615,
       "away": 0.1253
     },
     "pick": "home",
@@ -400,7 +400,7 @@
         "p": 0.08
       }
     ],
-    "goals3Plus": 0.6983,
+    "goals3Plus": 0.6982,
     "bothScore": 0.5889,
     "confidence": "medium",
     "reasons": [
@@ -412,11 +412,11 @@
   "2026-27-basaksehir-fenerbahce": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 1.5269,
-      "away": 1.8629
+      "home": 1.527,
+      "away": 1.8628
     },
     "probabilities": {
       "home": 0.3185,
@@ -453,15 +453,15 @@
   "2026-27-besiktas-samsunspor": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
       "home": 2.2171,
       "away": 0.9287
     },
     "probabilities": {
-      "home": 0.6661,
-      "draw": 0.1891,
+      "home": 0.666,
+      "draw": 0.1892,
       "away": 0.1448
     },
     "pick": "home",
@@ -483,7 +483,7 @@
       }
     ],
     "goals3Plus": 0.6087,
-    "bothScore": 0.539,
+    "bothScore": 0.5391,
     "confidence": "high",
     "reasons": [
       "Beşiktaş: bu sezon 6 iç saha maçında 17 gol attı, 3 gol yedi.",
@@ -494,11 +494,11 @@
   "2026-27-erzurumspor-fk-kocaelispor": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 0.8089,
-      "away": 0.8968
+      "home": 0.809,
+      "away": 0.8969
     },
     "probabilities": {
       "home": 0.3058,
@@ -510,7 +510,7 @@
       {
         "home": 0,
         "away": 0,
-        "p": 0.1817
+        "p": 0.1816
       },
       {
         "home": 0,
@@ -524,7 +524,7 @@
       }
     ],
     "goals3Plus": 0.2443,
-    "bothScore": 0.3284,
+    "bothScore": 0.3285,
     "confidence": "low",
     "reasons": [
       "Beklenen gol: Erzurumspor FK 0,81, Kocaelispor 0,90.",
@@ -535,16 +535,16 @@
   "2026-27-galatasaray-caykur-rizespor": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 2.8543,
-      "away": 0.9438
+      "home": 2.854,
+      "away": 0.9439
     },
     "probabilities": {
-      "home": 0.7664,
-      "draw": 0.1379,
-      "away": 0.0957
+      "home": 0.7662,
+      "draw": 0.138,
+      "away": 0.0958
     },
     "pick": "home",
     "topScores": [
@@ -576,11 +576,11 @@
   "2026-27-genclerbirligi-eyupspor": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 1.6444,
-      "away": 0.8685
+      "home": 1.6445,
+      "away": 0.8686
     },
     "probabilities": {
       "home": 0.5571,
@@ -602,11 +602,11 @@
       {
         "home": 2,
         "away": 0,
-        "p": 0.1096
+        "p": 0.1095
       }
     ],
     "goals3Plus": 0.4595,
-    "bothScore": 0.4683,
+    "bothScore": 0.4684,
     "confidence": "high",
     "reasons": [
       "Eyüpspor: bu sezon 5 deplasman maçında 1 gol attı, 19 gol yedi.",
@@ -617,7 +617,7 @@
   "2026-27-kasimpasa-goztepe": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
       "home": 1.4338,
@@ -658,7 +658,7 @@
   "2026-27-konyaspor-gaziantep-fk": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
       "home": 1.3864,
@@ -684,7 +684,7 @@
       {
         "home": 0,
         "away": 0,
-        "p": 0.0986
+        "p": 0.0985
       }
     ],
     "goals3Plus": 0.4085,
@@ -699,11 +699,11 @@
   "2026-27-trabzonspor-corum-fk": {
     "frozen": false,
     "backfilled": false,
-    "publishedAt": "2026-11-20T02:30:20.760353Z",
+    "publishedAt": "2026-11-20T14:42:17.502188Z",
     "modelVersion": "poisson-tw-1",
     "expectedGoals": {
-      "home": 2.6588,
-      "away": 1.1662
+      "home": 2.6585,
+      "away": 1.1661
     },
     "probabilities": {
       "home": 0.6913,
@@ -715,7 +715,7 @@
       {
         "home": 2,
         "away": 1,
-        "p": 0.0899
+        "p": 0.09
       },
       {
         "home": 3,
@@ -728,7 +728,7 @@
         "p": 0.0771
       }
     ],
-    "goals3Plus": 0.7351,
+    "goals3Plus": 0.735,
     "bothScore": 0.6402,
     "confidence": "medium",
     "reasons": [
