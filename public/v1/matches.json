@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T02:41:24.406780Z",
+  "generatedAt": "2026-11-21T13:58:35.942570Z",
   "matches": [
     {
       "id": "2026-27-amedspor-eyupspor",
@@ -9022,11 +9022,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.2071,
-          "away": 0.9528
+          "home": 1.2072,
+          "away": 0.9529
         },
         "probabilities": {
           "home": 0.4186,
@@ -9051,8 +9051,8 @@
             "p": 0.1153
           }
         ],
-        "goals3Plus": 0.3665,
-        "bothScore": 0.4306,
+        "goals3Plus": 0.3666,
+        "bothScore": 0.4307,
         "confidence": "low",
         "reasons": [
           "Aralarındaki 12 maç: 8 Alanyaspor galibiyeti, 1 beraberlik, 3 Konyaspor galibiyeti.",
@@ -9383,16 +9383,16 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.5105,
           "away": 1.6464
         },
         "probabilities": {
-          "home": 0.353,
+          "home": 0.3531,
           "draw": 0.2355,
-          "away": 0.4115
+          "away": 0.4114
         },
         "pick": "away",
         "topScores": [
@@ -9744,11 +9744,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.4746,
-          "away": 1.3202
+          "home": 1.4747,
+          "away": 1.3201
         },
         "probabilities": {
           "home": 0.4089,
@@ -10105,16 +10105,16 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.3979,
+          "home": 1.3978,
           "away": 1.0931
         },
         "probabilities": {
-          "home": 0.4391,
+          "home": 0.439,
           "draw": 0.2668,
-          "away": 0.2941
+          "away": 0.2942
         },
         "pick": "home",
         "topScores": [
@@ -10369,11 +10369,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 0.9609,
-          "away": 1.8966
+          "home": 0.961,
+          "away": 1.8965
         },
         "probabilities": {
           "home": 0.1867,
@@ -10698,11 +10698,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 2.6782,
-          "away": 0.6863
+          "away": 0.6864
         },
         "probabilities": {
           "home": 0.7947,
@@ -11027,16 +11027,16 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.2649,
-          "away": 2.3278
+          "home": 1.265,
+          "away": 2.3273
         },
         "probabilities": {
-          "home": 0.1969,
+          "home": 0.197,
           "draw": 0.1918,
-          "away": 0.6113
+          "away": 0.6112
         },
         "pick": "away",
         "topScores": [
@@ -11048,7 +11048,7 @@
           {
             "home": 1,
             "away": 1,
-            "p": 0.081
+            "p": 0.0811
           },
           {
             "home": 0,
@@ -11291,7 +11291,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.3383,
@@ -11652,7 +11652,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.5261,
@@ -11949,15 +11949,15 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.5928,
+          "home": 2.5922,
           "away": 1.0121
         },
         "probabilities": {
-          "home": 0.7131,
-          "draw": 0.1615,
+          "home": 0.713,
+          "draw": 0.1616,
           "away": 0.1254
         },
         "pick": "home",
@@ -11975,10 +11975,10 @@
           {
             "home": 3,
             "away": 1,
-            "p": 0.08
+            "p": 0.0799
           }
         ],
-        "goals3Plus": 0.6981,
+        "goals3Plus": 0.698,
         "bothScore": 0.5889,
         "confidence": "medium",
         "reasons": [
@@ -12213,11 +12213,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.527,
-          "away": 1.8628
+          "away": 1.8627
         },
         "probabilities": {
           "home": 0.3186,
@@ -12574,10 +12574,10 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.217,
+          "home": 2.2169,
           "away": 0.9288
         },
         "probabilities": {
@@ -12603,7 +12603,7 @@
             "p": 0.0954
           }
         ],
-        "goals3Plus": 0.6087,
+        "goals3Plus": 0.6086,
         "bothScore": 0.5391,
         "confidence": "high",
         "reasons": [
@@ -12935,28 +12935,28 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 0.8092,
-          "away": 0.897
+          "home": 0.8093,
+          "away": 0.8971
         },
         "probabilities": {
           "home": 0.3059,
-          "draw": 0.3393,
-          "away": 0.3548
+          "draw": 0.3392,
+          "away": 0.3549
         },
         "pick": "away",
         "topScores": [
           {
             "home": 0,
             "away": 0,
-            "p": 0.1816
+            "p": 0.1815
           },
           {
             "home": 0,
             "away": 1,
-            "p": 0.1629
+            "p": 0.1628
           },
           {
             "home": 1,
@@ -12964,8 +12964,8 @@
             "p": 0.1469
           }
         ],
-        "goals3Plus": 0.2444,
-        "bothScore": 0.3285,
+        "goals3Plus": 0.2445,
+        "bothScore": 0.3286,
         "confidence": "low",
         "reasons": [
           "Beklenen gol: Erzurumspor FK 0,81, Kocaelispor 0,90.",
@@ -13199,11 +13199,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.8538,
-          "away": 0.9439
+          "home": 2.8536,
+          "away": 0.944
         },
         "probabilities": {
           "home": 0.7662,
@@ -13560,15 +13560,15 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.6445,
-          "away": 0.8687
+          "away": 0.8688
         },
         "probabilities": {
-          "home": 0.557,
-          "draw": 0.2453,
+          "home": 0.5571,
+          "draw": 0.2452,
           "away": 0.1977
         },
         "pick": "home",
@@ -13857,7 +13857,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.4338,
@@ -14218,7 +14218,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.3865,
@@ -14247,7 +14247,7 @@
             "p": 0.0985
           }
         ],
-        "goals3Plus": 0.4085,
+        "goals3Plus": 0.4086,
         "bothScore": 0.4544,
         "confidence": "medium",
         "reasons": [
@@ -14579,11 +14579,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-21T02:41:24.406780Z",
+        "publishedAt": "2026-11-21T13:58:35.942570Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.6582,
-          "away": 1.1659
+          "home": 2.6579,
+          "away": 1.1658
         },
         "probabilities": {
           "home": 0.6913,
