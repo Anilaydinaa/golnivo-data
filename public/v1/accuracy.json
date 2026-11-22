@@ -1,23 +1,30 @@
 {
-  "generatedAt": "2026-11-21T13:58:35.942570Z",
+  "generatedAt": "2026-11-22T01:29:38.193813Z",
   "season": {
-    "evaluated": 98,
-    "pickHits": 50,
-    "pickRate": 0.5102,
-    "goals3PlusHits": 64,
-    "bothScoreHits": 49,
-    "brier": 0.5796,
-    "liveEvaluated": 0,
-    "livePickHits": 0
+    "evaluated": 102,
+    "pickHits": 52,
+    "pickRate": 0.5098,
+    "goals3PlusHits": 66,
+    "bothScoreHits": 50,
+    "brier": 0.5824,
+    "liveEvaluated": 4,
+    "livePickHits": 2
   },
   "lastMatchDay": {
-    "date": "2026-11-08",
-    "evaluated": 9,
-    "pickHits": 8,
-    "goals3PlusHits": 7,
-    "bothScoreHits": 3
+    "date": "2026-11-22",
+    "evaluated": 4,
+    "pickHits": 2,
+    "goals3PlusHits": 2,
+    "bothScoreHits": 1
   },
   "byDay": [
+    {
+      "date": "2026-11-22",
+      "evaluated": 4,
+      "pickHits": 2,
+      "goals3PlusHits": 2,
+      "bothScoreHits": 1
+    },
     {
       "date": "2026-11-08",
       "evaluated": 9,
@@ -216,6 +223,13 @@
     }
   ],
   "byRound": [
+    {
+      "round": 12,
+      "evaluated": 4,
+      "pickHits": 2,
+      "goals3PlusHits": 2,
+      "bothScoreHits": 1
+    },
     {
       "round": 11,
       "evaluated": 9,

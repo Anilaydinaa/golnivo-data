@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-21T13:58:35.942570Z",
+  "generatedAt": "2026-11-22T01:29:38.193813Z",
   "rows": [
     {
       "team": {
         "id": "galatasaray",
         "name": "Galatasaray"
       },
-      "played": 11,
-      "won": 9,
+      "played": 12,
+      "won": 10,
       "drawn": 1,
       "lost": 1,
-      "goalsFor": 27,
-      "goalsAgainst": 15,
-      "goalDiff": 12,
-      "points": 28,
+      "goalsFor": 29,
+      "goalsAgainst": 16,
+      "goalDiff": 13,
+      "points": 31,
       "pointAdjustment": 0,
       "form": [
         "W",
@@ -52,21 +52,21 @@
         "id": "amedspor",
         "name": "Amedspor"
       },
-      "played": 11,
+      "played": 12,
       "won": 7,
       "drawn": 2,
-      "lost": 2,
+      "lost": 3,
       "goalsFor": 28,
-      "goalsAgainst": 15,
-      "goalDiff": 13,
+      "goalsAgainst": 17,
+      "goalDiff": 11,
       "points": 23,
       "pointAdjustment": 0,
       "form": [
         "L",
+        "L",
         "W",
         "W",
-        "W",
-        "D"
+        "W"
       ],
       "position": 3
     },
@@ -95,6 +95,52 @@
     },
     {
       "team": {
+        "id": "fenerbahce",
+        "name": "Fenerbahçe"
+      },
+      "played": 12,
+      "won": 6,
+      "drawn": 2,
+      "lost": 4,
+      "goalsFor": 31,
+      "goalsAgainst": 12,
+      "goalDiff": 19,
+      "points": 20,
+      "pointAdjustment": 0,
+      "form": [
+        "D",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "position": 5
+    },
+    {
+      "team": {
+        "id": "kocaelispor",
+        "name": "Kocaelispor"
+      },
+      "played": 12,
+      "won": 6,
+      "drawn": 2,
+      "lost": 4,
+      "goalsFor": 15,
+      "goalsAgainst": 11,
+      "goalDiff": 4,
+      "points": 20,
+      "pointAdjustment": 0,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "position": 6
+    },
+    {
+      "team": {
         "id": "kasimpasa",
         "name": "Kasımpaşa"
       },
@@ -112,52 +158,6 @@
         "D",
         "W",
         "W",
-        "L"
-      ],
-      "position": 5
-    },
-    {
-      "team": {
-        "id": "fenerbahce",
-        "name": "Fenerbahçe"
-      },
-      "played": 11,
-      "won": 6,
-      "drawn": 1,
-      "lost": 4,
-      "goalsFor": 29,
-      "goalsAgainst": 10,
-      "goalDiff": 19,
-      "points": 19,
-      "pointAdjustment": 0,
-      "form": [
-        "W",
-        "L",
-        "L",
-        "W",
-        "W"
-      ],
-      "position": 6
-    },
-    {
-      "team": {
-        "id": "kocaelispor",
-        "name": "Kocaelispor"
-      },
-      "played": 11,
-      "won": 6,
-      "drawn": 1,
-      "lost": 4,
-      "goalsFor": 13,
-      "goalsAgainst": 9,
-      "goalDiff": 4,
-      "points": 19,
-      "pointAdjustment": 0,
-      "form": [
-        "W",
-        "D",
-        "W",
-        "L",
         "L"
       ],
       "position": 7
@@ -187,6 +187,29 @@
     },
     {
       "team": {
+        "id": "caykur-rizespor",
+        "name": "Çaykur Rizespor"
+      },
+      "played": 11,
+      "won": 5,
+      "drawn": 2,
+      "lost": 4,
+      "goalsFor": 14,
+      "goalsAgainst": 14,
+      "goalDiff": 0,
+      "points": 17,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "L"
+      ],
+      "position": 9
+    },
+    {
+      "team": {
         "id": "goztepe",
         "name": "Göztepe"
       },
@@ -205,29 +228,6 @@
         "W",
         "W",
         "W"
-      ],
-      "position": 9
-    },
-    {
-      "team": {
-        "id": "caykur-rizespor",
-        "name": "Çaykur Rizespor"
-      },
-      "played": 10,
-      "won": 4,
-      "drawn": 2,
-      "lost": 4,
-      "goalsFor": 12,
-      "goalsAgainst": 14,
-      "goalDiff": -2,
-      "points": 14,
-      "pointAdjustment": 0,
-      "form": [
-        "W",
-        "D",
-        "L",
-        "L",
-        "D"
       ],
       "position": 10
     },
@@ -256,6 +256,29 @@
     },
     {
       "team": {
+        "id": "genclerbirligi",
+        "name": "Gençlerbirliği"
+      },
+      "played": 12,
+      "won": 4,
+      "drawn": 2,
+      "lost": 6,
+      "goalsFor": 13,
+      "goalsAgainst": 21,
+      "goalDiff": -8,
+      "points": 14,
+      "pointAdjustment": 0,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "position": 12
+    },
+    {
+      "team": {
         "id": "corum-fk",
         "name": "Çorum FK"
       },
@@ -275,7 +298,7 @@
         "W",
         "L"
       ],
-      "position": 12
+      "position": 13
     },
     {
       "team": {
@@ -294,29 +317,6 @@
       "form": [
         "L",
         "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "position": 13
-    },
-    {
-      "team": {
-        "id": "genclerbirligi",
-        "name": "Gençlerbirliği"
-      },
-      "played": 11,
-      "won": 3,
-      "drawn": 2,
-      "lost": 6,
-      "goalsFor": 12,
-      "goalsAgainst": 21,
-      "goalDiff": -9,
-      "points": 11,
-      "pointAdjustment": 0,
-      "form": [
-        "L",
-        "W",
         "L",
         "L",
         "D"
@@ -351,13 +351,13 @@
         "id": "gaziantep-fk",
         "name": "Gaziantep FK"
       },
-      "played": 11,
+      "played": 12,
       "won": 2,
       "drawn": 2,
-      "lost": 7,
+      "lost": 8,
       "goalsFor": 9,
-      "goalsAgainst": 19,
-      "goalDiff": -10,
+      "goalsAgainst": 20,
+      "goalDiff": -11,
       "points": 8,
       "pointAdjustment": 0,
       "form": [
@@ -374,18 +374,18 @@
         "id": "samsunspor",
         "name": "Samsunspor"
       },
-      "played": 11,
+      "played": 12,
       "won": 2,
       "drawn": 1,
-      "lost": 8,
-      "goalsFor": 11,
-      "goalsAgainst": 26,
-      "goalDiff": -15,
+      "lost": 9,
+      "goalsFor": 12,
+      "goalsAgainst": 28,
+      "goalDiff": -16,
       "points": 7,
       "pointAdjustment": 0,
       "form": [
-        "W",
         "L",
+        "W",
         "L",
         "L",
         "L"
