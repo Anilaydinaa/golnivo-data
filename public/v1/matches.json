@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:29:14.008314Z",
+  "generatedAt": "2026-11-25T16:34:57.213051Z",
   "matches": [
     {
       "id": "2026-27-amedspor-eyupspor",
@@ -9050,7 +9050,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.2092,
@@ -9079,7 +9079,7 @@
             "p": 0.1146
           }
         ],
-        "goals3Plus": 0.3683,
+        "goals3Plus": 0.3684,
         "bothScore": 0.4323,
         "confidence": "low",
         "reasons": [
@@ -9411,7 +9411,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.513,
@@ -9772,7 +9772,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.4984,
@@ -10133,10 +10133,10 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.4162,
+          "home": 1.4161,
           "away": 1.1455
         },
         "probabilities": {
@@ -10397,16 +10397,16 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 0.9639,
-          "away": 1.9128
+          "home": 0.964,
+          "away": 1.9127
         },
         "probabilities": {
-          "home": 0.1853,
-          "draw": 0.219,
-          "away": 0.5957
+          "home": 0.1854,
+          "draw": 0.2191,
+          "away": 0.5955
         },
         "pick": "away",
         "topScores": [
@@ -10726,15 +10726,15 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.7329,
-          "away": 0.7124
+          "home": 2.7327,
+          "away": 0.7125
         },
         "probabilities": {
-          "home": 0.7966,
-          "draw": 0.1316,
+          "home": 0.7965,
+          "draw": 0.1317,
           "away": 0.0718
         },
         "pick": "home",
@@ -11055,16 +11055,16 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.2775,
-          "away": 2.0841
+          "away": 2.0837
         },
         "probabilities": {
-          "home": 0.2304,
-          "draw": 0.21,
-          "away": 0.5596
+          "home": 0.2305,
+          "draw": 0.2101,
+          "away": 0.5594
         },
         "pick": "away",
         "topScores": [
@@ -11076,7 +11076,7 @@
           {
             "home": 1,
             "away": 1,
-            "p": 0.0923
+            "p": 0.0924
           },
           {
             "home": 0,
@@ -11084,7 +11084,7 @@
             "p": 0.0753
           }
         ],
-        "goals3Plus": 0.6528,
+        "goals3Plus": 0.6527,
         "bothScore": 0.6315,
         "confidence": "medium",
         "reasons": [
@@ -11319,11 +11319,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.345,
-          "away": 1.5818
+          "away": 1.5817
         },
         "probabilities": {
           "home": 0.3252,
@@ -11353,7 +11353,7 @@
         "confidence": "medium",
         "reasons": [
           "Sezon sıralaması: Göztepe 10, Trabzonspor 2.",
-          "Beklenen gol: Göztepe 1,34, Trabzonspor 1,58.",
+          "Beklenen gol: Göztepe 1,35, Trabzonspor 1,58.",
           "Trabzonspor: bu sezon 6 deplasman maçında 11 gol attı, 7 gol yedi."
         ]
       },
@@ -11680,11 +11680,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.4908,
-          "away": 1.1374
+          "away": 1.1375
         },
         "probabilities": {
           "home": 0.4533,
@@ -11977,16 +11977,16 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.3314,
-          "away": 1.0582
+          "home": 2.331,
+          "away": 1.0583
         },
         "probabilities": {
-          "home": 0.6578,
+          "home": 0.6577,
           "draw": 0.1847,
-          "away": 0.1575
+          "away": 0.1576
         },
         "pick": "home",
         "topScores": [
@@ -12241,11 +12241,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.5711,
-          "away": 1.8977
+          "away": 1.8976
         },
         "probabilities": {
           "home": 0.3225,
@@ -12602,10 +12602,10 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.1774,
+          "home": 2.1773,
           "away": 0.9369
         },
         "probabilities": {
@@ -12963,16 +12963,16 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 0.8262,
-          "away": 0.9511
+          "home": 0.8263,
+          "away": 0.9512
         },
         "probabilities": {
           "home": 0.3005,
-          "draw": 0.3305,
-          "away": 0.369
+          "draw": 0.3304,
+          "away": 0.3691
         },
         "pick": "away",
         "topScores": [
@@ -12992,7 +12992,7 @@
             "p": 0.1397
           }
         ],
-        "goals3Plus": 0.2633,
+        "goals3Plus": 0.2634,
         "bothScore": 0.3451,
         "confidence": "low",
         "reasons": [
@@ -13227,10 +13227,10 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.6595,
+          "home": 2.6593,
           "away": 0.9661
         },
         "probabilities": {
@@ -13588,7 +13588,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.6149,
@@ -13618,7 +13618,7 @@
           }
         ],
         "goals3Plus": 0.4484,
-        "bothScore": 0.4603,
+        "bothScore": 0.4604,
         "confidence": "high",
         "reasons": [
           "Eyüpspor: bu sezon 5 deplasman maçında 1 gol attı, 19 gol yedi.",
@@ -13885,7 +13885,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.4302,
@@ -14246,15 +14246,15 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.3678,
-          "away": 0.9134
+          "away": 0.9135
         },
         "probabilities": {
-          "home": 0.4737,
-          "draw": 0.2757,
+          "home": 0.4738,
+          "draw": 0.2756,
           "away": 0.2506
         },
         "pick": "home",
@@ -14276,7 +14276,7 @@
           }
         ],
         "goals3Plus": 0.399,
-        "bothScore": 0.4463,
+        "bothScore": 0.4464,
         "confidence": "medium",
         "reasons": [
           "Beklenen gol: Konyaspor 1,37, Gaziantep FK 0,91.",
@@ -14607,11 +14607,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T04:29:14.008314Z",
+        "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.6618,
-          "away": 1.1709
+          "home": 2.6615,
+          "away": 1.1707
         },
         "probabilities": {
           "home": 0.6908,
@@ -14636,7 +14636,7 @@
             "p": 0.0767
           }
         ],
-        "goals3Plus": 0.7363,
+        "goals3Plus": 0.7362,
         "bothScore": 0.6417,
         "confidence": "medium",
         "reasons": [
