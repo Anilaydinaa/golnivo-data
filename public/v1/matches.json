@@ -1,3060 +1,6 @@
 {
-  "generatedAt": "2026-11-25T16:34:57.213051Z",
+  "generatedAt": "2026-11-26T03:42:18.508790Z",
   "matches": [
-    {
-      "id": "2026-27-amedspor-eyupspor",
-      "round": 10,
-      "date": "2026-11-01",
-      "kickoff": null,
-      "status": "finished",
-      "home": {
-        "id": "amedspor",
-        "name": "Amedspor"
-      },
-      "away": {
-        "id": "eyupspor",
-        "name": "Eyüpspor"
-      },
-      "score": {
-        "home": 5,
-        "away": 1
-      },
-      "prediction": {
-        "frozen": true,
-        "backfilled": true,
-        "publishedAt": "2026-11-18T06:00:00Z",
-        "modelVersion": "poisson-tw-1",
-        "expectedGoals": {
-          "home": 2.6832,
-          "away": 0.753
-        },
-        "probabilities": {
-          "home": 0.7815,
-          "draw": 0.1385,
-          "away": 0.08
-        },
-        "pick": "home",
-        "topScores": [
-          {
-            "home": 2,
-            "away": 0,
-            "p": 0.1159
-          },
-          {
-            "home": 3,
-            "away": 0,
-            "p": 0.1036
-          },
-          {
-            "home": 2,
-            "away": 1,
-            "p": 0.0873
-          }
-        ],
-        "goals3Plus": 0.6672,
-        "bothScore": 0.4929,
-        "confidence": "medium",
-        "reasons": [
-          "Eyüpspor: bu sezon 4 deplasman maçında 0 gol attı, 14 gol yedi.",
-          "Sezon sıralaması: Amedspor 2, Eyüpspor 18.",
-          "Son 5 maç: Amedspor 13 puan, Eyüpspor 0 puan."
-        ]
-      },
-      "outcome": {
-        "pickHit": true,
-        "goals3PlusHit": true,
-        "bothScoreHit": false
-      },
-      "analysis": {
-        "home": {
-          "team": {
-            "id": "amedspor",
-            "name": "Amedspor"
-          },
-          "position": 2,
-          "form": [
-            "W",
-            "W",
-            "D",
-            "W",
-            "W"
-          ],
-          "season": {
-            "played": 9,
-            "won": 6,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 20,
-            "goalsAgainst": 10,
-            "points": 20
-          },
-          "venue": {
-            "label": "home",
-            "played": 5,
-            "won": 5,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 14,
-            "goalsAgainst": 3
-          },
-          "avgGoalsFor": 2.2222,
-          "avgGoalsAgainst": 1.1111,
-          "cleanSheets": 3,
-          "failedToScore": 1,
-          "goals3PlusRate": 0.7778,
-          "bothScoreRate": 0.5556,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-20",
-              "opponent": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "venue": "H",
-              "goalsFor": 3,
-              "goalsAgainst": 2,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-13",
-              "opponent": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "venue": "H",
-              "goalsFor": 5,
-              "goalsAgainst": 0,
-              "result": "W"
-            }
-          ]
-        },
-        "away": {
-          "team": {
-            "id": "eyupspor",
-            "name": "Eyüpspor"
-          },
-          "position": 18,
-          "form": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "season": {
-            "played": 9,
-            "won": 1,
-            "drawn": 0,
-            "lost": 8,
-            "goalsFor": 2,
-            "goalsAgainst": 23,
-            "points": 3
-          },
-          "venue": {
-            "label": "away",
-            "played": 4,
-            "won": 0,
-            "drawn": 0,
-            "lost": 4,
-            "goalsFor": 0,
-            "goalsAgainst": 14
-          },
-          "avgGoalsFor": 0.2222,
-          "avgGoalsAgainst": 2.5556,
-          "cleanSheets": 0,
-          "failedToScore": 8,
-          "goals3PlusRate": 0.4444,
-          "bothScoreRate": 0.1111,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 1,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "erzurumspor-fk",
-                "name": "Erzurumspor FK"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 4,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-20",
-              "opponent": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 8,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-12",
-              "opponent": {
-                "id": "caykur-rizespor",
-                "name": "Çaykur Rizespor"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 2,
-              "result": "L"
-            }
-          ]
-        },
-        "h2h": {
-          "played": 0,
-          "homeWins": 0,
-          "draws": 0,
-          "awayWins": 0,
-          "goalsHome": 0,
-          "goalsAway": 0,
-          "matches": []
-        },
-        "dataQuality": {
-          "homeMatches": 9,
-          "awayMatches": 79,
-          "note": "Amedspor: Süper Lig verisi sınırlı."
-        }
-      }
-    },
-    {
-      "id": "2026-27-basaksehir-samsunspor",
-      "round": 10,
-      "date": "2026-11-01",
-      "kickoff": null,
-      "status": "finished",
-      "home": {
-        "id": "basaksehir",
-        "name": "Başakşehir"
-      },
-      "away": {
-        "id": "samsunspor",
-        "name": "Samsunspor"
-      },
-      "score": {
-        "home": 5,
-        "away": 2
-      },
-      "prediction": {
-        "frozen": true,
-        "backfilled": true,
-        "publishedAt": "2026-11-18T06:00:00Z",
-        "modelVersion": "poisson-tw-1",
-        "expectedGoals": {
-          "home": 2.02,
-          "away": 1.0159
-        },
-        "probabilities": {
-          "home": 0.6062,
-          "draw": 0.2103,
-          "away": 0.1835
-        },
-        "pick": "home",
-        "topScores": [
-          {
-            "home": 2,
-            "away": 1,
-            "p": 0.0996
-          },
-          {
-            "home": 1,
-            "away": 1,
-            "p": 0.0986
-          },
-          {
-            "home": 2,
-            "away": 0,
-            "p": 0.098
-          }
-        ],
-        "goals3Plus": 0.5848,
-        "bothScore": 0.5533,
-        "confidence": "high",
-        "reasons": [
-          "Beklenen gol: Başakşehir 2,02, Samsunspor 1,02.",
-          "Aralarındaki 6 maç: 4 Başakşehir galibiyeti, 1 beraberlik, 1 Samsunspor galibiyeti.",
-          "Son 5 maç: Başakşehir 7 puan, Samsunspor 0 puan."
-        ]
-      },
-      "outcome": {
-        "pickHit": true,
-        "goals3PlusHit": true,
-        "bothScoreHit": true
-      },
-      "analysis": {
-        "home": {
-          "team": {
-            "id": "basaksehir",
-            "name": "Başakşehir"
-          },
-          "position": 11,
-          "form": [
-            "L",
-            "W",
-            "D",
-            "W",
-            "L"
-          ],
-          "season": {
-            "played": 9,
-            "won": 3,
-            "drawn": 2,
-            "lost": 4,
-            "goalsFor": 12,
-            "goalsAgainst": 14,
-            "points": 11
-          },
-          "venue": {
-            "label": "home",
-            "played": 5,
-            "won": 3,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 11,
-            "goalsAgainst": 5
-          },
-          "avgGoalsFor": 1.3333,
-          "avgGoalsAgainst": 1.5556,
-          "cleanSheets": 3,
-          "failedToScore": 3,
-          "goals3PlusRate": 0.5556,
-          "bothScoreRate": 0.4444,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-19",
-              "opponent": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "venue": "H",
-              "goalsFor": 4,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-13",
-              "opponent": {
-                "id": "amedspor",
-                "name": "Amedspor"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 5,
-              "result": "L"
-            }
-          ]
-        },
-        "away": {
-          "team": {
-            "id": "samsunspor",
-            "name": "Samsunspor"
-          },
-          "position": 17,
-          "form": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "season": {
-            "played": 9,
-            "won": 1,
-            "drawn": 1,
-            "lost": 7,
-            "goalsFor": 8,
-            "goalsAgainst": 21,
-            "points": 4
-          },
-          "venue": {
-            "label": "away",
-            "played": 4,
-            "won": 1,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 3,
-            "goalsAgainst": 6
-          },
-          "avgGoalsFor": 0.8889,
-          "avgGoalsAgainst": 2.3333,
-          "cleanSheets": 1,
-          "failedToScore": 4,
-          "goals3PlusRate": 0.5556,
-          "bothScoreRate": 0.4444,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "amedspor",
-                "name": "Amedspor"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "venue": "A",
-              "goalsFor": 1,
-              "goalsAgainst": 4,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 3,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-20",
-              "opponent": {
-                "id": "erzurumspor-fk",
-                "name": "Erzurumspor FK"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 1,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-12",
-              "opponent": {
-                "id": "corum-fk",
-                "name": "Çorum FK"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 5,
-              "result": "L"
-            }
-          ]
-        },
-        "h2h": {
-          "played": 6,
-          "homeWins": 4,
-          "draws": 1,
-          "awayWins": 1,
-          "goalsHome": 10,
-          "goalsAway": 2,
-          "matches": [
-            {
-              "date": "2026-05-10",
-              "season": "2025-26",
-              "home": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "away": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "score": {
-                "home": 3,
-                "away": 0
-              }
-            },
-            {
-              "date": "2025-12-14",
-              "season": "2025-26",
-              "home": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "away": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "score": {
-                "home": 0,
-                "away": 2
-              }
-            },
-            {
-              "date": "2025-02-01",
-              "season": "2024-25",
-              "home": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "away": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "score": {
-                "home": 4,
-                "away": 0
-              }
-            },
-            {
-              "date": "2024-09-18",
-              "season": "2024-25",
-              "home": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "away": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "score": {
-                "home": 2,
-                "away": 0
-              }
-            },
-            {
-              "date": "2024-03-03",
-              "season": "2023-24",
-              "home": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "away": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "score": {
-                "home": 1,
-                "away": 0
-              }
-            },
-            {
-              "date": "2023-10-22",
-              "season": "2023-24",
-              "home": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "away": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "score": {
-                "home": 0,
-                "away": 0
-              }
-            }
-          ]
-        },
-        "dataQuality": {
-          "homeMatches": 117,
-          "awayMatches": 116,
-          "note": null
-        }
-      }
-    },
-    {
-      "id": "2026-27-erzurumspor-fk-corum-fk",
-      "round": 10,
-      "date": "2026-11-01",
-      "kickoff": null,
-      "status": "finished",
-      "home": {
-        "id": "erzurumspor-fk",
-        "name": "Erzurumspor FK"
-      },
-      "away": {
-        "id": "corum-fk",
-        "name": "Çorum FK"
-      },
-      "score": {
-        "home": 1,
-        "away": 3
-      },
-      "prediction": {
-        "frozen": true,
-        "backfilled": true,
-        "publishedAt": "2026-11-18T06:00:00Z",
-        "modelVersion": "poisson-tw-1",
-        "expectedGoals": {
-          "home": 1.2832,
-          "away": 1.4057
-        },
-        "probabilities": {
-          "home": 0.3426,
-          "draw": 0.2582,
-          "away": 0.3992
-        },
-        "pick": "away",
-        "topScores": [
-          {
-            "home": 1,
-            "away": 1,
-            "p": 0.1226
-          },
-          {
-            "home": 0,
-            "away": 1,
-            "p": 0.0955
-          },
-          {
-            "home": 1,
-            "away": 0,
-            "p": 0.0872
-          }
-        ],
-        "goals3Plus": 0.5037,
-        "bothScore": 0.5456,
-        "confidence": "low",
-        "reasons": [
-          "Beklenen gol: Erzurumspor FK 1,28, Çorum FK 1,41.",
-          "Sezon sıralaması: Erzurumspor FK 8, Çorum FK 12.",
-          "Son 5 maç: Erzurumspor FK 10 puan, Çorum FK 9 puan."
-        ]
-      },
-      "outcome": {
-        "pickHit": true,
-        "goals3PlusHit": true,
-        "bothScoreHit": true
-      },
-      "analysis": {
-        "home": {
-          "team": {
-            "id": "erzurumspor-fk",
-            "name": "Erzurumspor FK"
-          },
-          "position": 8,
-          "form": [
-            "W",
-            "W",
-            "D",
-            "W",
-            "L"
-          ],
-          "season": {
-            "played": 9,
-            "won": 4,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 12,
-            "points": 14
-          },
-          "venue": {
-            "label": "home",
-            "played": 4,
-            "won": 3,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 4,
-            "goalsAgainst": 4
-          },
-          "avgGoalsFor": 0.8889,
-          "avgGoalsAgainst": 1.3333,
-          "cleanSheets": 4,
-          "failedToScore": 4,
-          "goals3PlusRate": 0.4444,
-          "bothScoreRate": 0.2222,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "venue": "A",
-              "goalsFor": 3,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "eyupspor",
-                "name": "Eyüpspor"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-20",
-              "opponent": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-11",
-              "opponent": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 3,
-              "result": "L"
-            }
-          ]
-        },
-        "away": {
-          "team": {
-            "id": "corum-fk",
-            "name": "Çorum FK"
-          },
-          "position": 12,
-          "form": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "season": {
-            "played": 8,
-            "won": 3,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 16,
-            "goalsAgainst": 14,
-            "points": 10
-          },
-          "venue": {
-            "label": "away",
-            "played": 5,
-            "won": 2,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 12,
-            "goalsAgainst": 11
-          },
-          "avgGoalsFor": 2.0,
-          "avgGoalsAgainst": 1.75,
-          "cleanSheets": 2,
-          "failedToScore": 2,
-          "goals3PlusRate": 0.75,
-          "bothScoreRate": 0.5,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "venue": "A",
-              "goalsFor": 3,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-19",
-              "opponent": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-12",
-              "opponent": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "venue": "A",
-              "goalsFor": 5,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-06",
-              "opponent": {
-                "id": "eyupspor",
-                "name": "Eyüpspor"
-              },
-              "venue": "H",
-              "goalsFor": 3,
-              "goalsAgainst": 0,
-              "result": "W"
-            }
-          ]
-        },
-        "h2h": {
-          "played": 0,
-          "homeWins": 0,
-          "draws": 0,
-          "awayWins": 0,
-          "goalsHome": 0,
-          "goalsAway": 0,
-          "matches": []
-        },
-        "dataQuality": {
-          "homeMatches": 9,
-          "awayMatches": 8,
-          "note": "Erzurumspor FK, Çorum FK: Süper Lig verisi sınırlı."
-        }
-      }
-    },
-    {
-      "id": "2026-27-fenerbahce-goztepe",
-      "round": 10,
-      "date": "2026-11-01",
-      "kickoff": null,
-      "status": "finished",
-      "home": {
-        "id": "fenerbahce",
-        "name": "Fenerbahçe"
-      },
-      "away": {
-        "id": "goztepe",
-        "name": "Göztepe"
-      },
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "prediction": {
-        "frozen": true,
-        "backfilled": true,
-        "publishedAt": "2026-11-18T06:00:00Z",
-        "modelVersion": "poisson-tw-1",
-        "expectedGoals": {
-          "home": 2.5267,
-          "away": 1.0748
-        },
-        "probabilities": {
-          "home": 0.6887,
-          "draw": 0.1697,
-          "away": 0.1416
-        },
-        "pick": "home",
-        "topScores": [
-          {
-            "home": 2,
-            "away": 1,
-            "p": 0.0936
-          },
-          {
-            "home": 2,
-            "away": 0,
-            "p": 0.0871
-          },
-          {
-            "home": 3,
-            "away": 1,
-            "p": 0.0788
-          }
-        ],
-        "goals3Plus": 0.6975,
-        "bothScore": 0.606,
-        "confidence": "high",
-        "reasons": [
-          "Fenerbahçe: bu sezon 4 iç saha maçında 16 gol attı, 4 gol yedi.",
-          "Beklenen gol: Fenerbahçe 2,53, Göztepe 1,07.",
-          "Göztepe: bu sezon 5 deplasman maçında 13 gol attı, 9 gol yedi."
-        ]
-      },
-      "outcome": {
-        "pickHit": false,
-        "goals3PlusHit": true,
-        "bothScoreHit": true
-      },
-      "analysis": {
-        "home": {
-          "team": {
-            "id": "fenerbahce",
-            "name": "Fenerbahçe"
-          },
-          "position": 5,
-          "form": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "D"
-          ],
-          "season": {
-            "played": 9,
-            "won": 5,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 23,
-            "goalsAgainst": 8,
-            "points": 16
-          },
-          "venue": {
-            "label": "home",
-            "played": 4,
-            "won": 3,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 16,
-            "goalsAgainst": 4
-          },
-          "avgGoalsFor": 2.5556,
-          "avgGoalsAgainst": 0.8889,
-          "cleanSheets": 5,
-          "failedToScore": 1,
-          "goals3PlusRate": 0.7778,
-          "bothScoreRate": 0.4444,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "venue": "A",
-              "goalsFor": 1,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "venue": "H",
-              "goalsFor": 3,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "caykur-rizespor",
-                "name": "Çaykur Rizespor"
-              },
-              "venue": "A",
-              "goalsFor": 3,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-20",
-              "opponent": {
-                "id": "eyupspor",
-                "name": "Eyüpspor"
-              },
-              "venue": "H",
-              "goalsFor": 8,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-14",
-              "opponent": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "result": "D"
-            }
-          ]
-        },
-        "away": {
-          "team": {
-            "id": "goztepe",
-            "name": "Göztepe"
-          },
-          "position": 9,
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D",
-            "D"
-          ],
-          "season": {
-            "played": 9,
-            "won": 3,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 19,
-            "goalsAgainst": 16,
-            "points": 12
-          },
-          "venue": {
-            "label": "away",
-            "played": 5,
-            "won": 2,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 13,
-            "goalsAgainst": 9
-          },
-          "avgGoalsFor": 2.1111,
-          "avgGoalsAgainst": 1.7778,
-          "cleanSheets": 2,
-          "failedToScore": 1,
-          "goals3PlusRate": 0.7778,
-          "bothScoreRate": 0.6667,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "corum-fk",
-                "name": "Çorum FK"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "kocaelispor",
-                "name": "Kocaelispor"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "eyupspor",
-                "name": "Eyüpspor"
-              },
-              "venue": "A",
-              "goalsFor": 4,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-20",
-              "opponent": {
-                "id": "caykur-rizespor",
-                "name": "Çaykur Rizespor"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-12",
-              "opponent": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "result": "D"
-            }
-          ]
-        },
-        "h2h": {
-          "played": 10,
-          "homeWins": 4,
-          "draws": 4,
-          "awayWins": 2,
-          "goalsHome": 15,
-          "goalsAway": 12,
-          "matches": [
-            {
-              "date": "2026-01-25",
-              "season": "2025-26",
-              "home": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "away": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "score": {
-                "home": 1,
-                "away": 1
-              }
-            },
-            {
-              "date": "2025-08-16",
-              "season": "2025-26",
-              "home": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "away": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "score": {
-                "home": 0,
-                "away": 0
-              }
-            },
-            {
-              "date": "2025-01-26",
-              "season": "2024-25",
-              "home": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "away": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "score": {
-                "home": 3,
-                "away": 2
-              }
-            },
-            {
-              "date": "2024-08-17",
-              "season": "2024-25",
-              "home": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "away": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "score": {
-                "home": 2,
-                "away": 2
-              }
-            },
-            {
-              "date": "2021-02-21",
-              "season": "2020-21",
-              "home": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "away": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "score": {
-                "home": 0,
-                "away": 1
-              }
-            },
-            {
-              "date": "2020-10-18",
-              "season": "2020-21",
-              "home": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "away": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "score": {
-                "home": 2,
-                "away": 3
-              }
-            }
-          ]
-        },
-        "dataQuality": {
-          "homeMatches": 117,
-          "awayMatches": 79,
-          "note": null
-        }
-      }
-    },
-    {
-      "id": "2026-27-genclerbirligi-alanyaspor",
-      "round": 10,
-      "date": "2026-11-01",
-      "kickoff": null,
-      "status": "finished",
-      "home": {
-        "id": "genclerbirligi",
-        "name": "Gençlerbirliği"
-      },
-      "away": {
-        "id": "alanyaspor",
-        "name": "Alanyaspor"
-      },
-      "score": {
-        "home": 5,
-        "away": 0
-      },
-      "prediction": {
-        "frozen": true,
-        "backfilled": true,
-        "publishedAt": "2026-11-18T06:00:00Z",
-        "modelVersion": "poisson-tw-1",
-        "expectedGoals": {
-          "home": 1.1046,
-          "away": 1.1203
-        },
-        "probabilities": {
-          "home": 0.3514,
-          "draw": 0.2894,
-          "away": 0.3592
-        },
-        "pick": "away",
-        "topScores": [
-          {
-            "home": 1,
-            "away": 1,
-            "p": 0.1337
-          },
-          {
-            "home": 0,
-            "away": 1,
-            "p": 0.1211
-          },
-          {
-            "home": 1,
-            "away": 0,
-            "p": 0.1194
-          }
-        ],
-        "goals3Plus": 0.384,
-        "bothScore": 0.4506,
-        "confidence": "low",
-        "reasons": [
-          "Aralarındaki 6 maç: 3 Gençlerbirliği galibiyeti, 3 beraberlik, 0 Alanyaspor galibiyeti.",
-          "Beklenen gol: Gençlerbirliği 1,10, Alanyaspor 1,12.",
-          "Sezon sıralaması: Gençlerbirliği 16, Alanyaspor 10."
-        ]
-      },
-      "outcome": {
-        "pickHit": false,
-        "goals3PlusHit": false,
-        "bothScoreHit": true
-      },
-      "analysis": {
-        "home": {
-          "team": {
-            "id": "genclerbirligi",
-            "name": "Gençlerbirliği"
-          },
-          "position": 16,
-          "form": [
-            "L",
-            "L",
-            "D",
-            "L",
-            "L"
-          ],
-          "season": {
-            "played": 9,
-            "won": 2,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 7,
-            "goalsAgainst": 18,
-            "points": 8
-          },
-          "venue": {
-            "label": "home",
-            "played": 5,
-            "won": 1,
-            "drawn": 2,
-            "lost": 2,
-            "goalsFor": 6,
-            "goalsAgainst": 7
-          },
-          "avgGoalsFor": 0.7778,
-          "avgGoalsAgainst": 2.0,
-          "cleanSheets": 1,
-          "failedToScore": 4,
-          "goals3PlusRate": 0.5556,
-          "bothScoreRate": 0.4444,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 1,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "amedspor",
-                "name": "Amedspor"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-19",
-              "opponent": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 4,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-13",
-              "opponent": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 2,
-              "result": "L"
-            }
-          ]
-        },
-        "away": {
-          "team": {
-            "id": "alanyaspor",
-            "name": "Alanyaspor"
-          },
-          "position": 10,
-          "form": [
-            "L",
-            "L",
-            "D",
-            "W",
-            "D"
-          ],
-          "season": {
-            "played": 9,
-            "won": 3,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 9,
-            "goalsAgainst": 11,
-            "points": 12
-          },
-          "venue": {
-            "label": "away",
-            "played": 5,
-            "won": 2,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 5,
-            "goalsAgainst": 7
-          },
-          "avgGoalsFor": 1.0,
-          "avgGoalsAgainst": 1.2222,
-          "cleanSheets": 3,
-          "failedToScore": 2,
-          "goals3PlusRate": 0.5556,
-          "bothScoreRate": 0.5556,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "kocaelispor",
-                "name": "Kocaelispor"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 3,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "erzurumspor-fk",
-                "name": "Erzurumspor FK"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-19",
-              "opponent": {
-                "id": "corum-fk",
-                "name": "Çorum FK"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-12",
-              "opponent": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "result": "D"
-            }
-          ]
-        },
-        "h2h": {
-          "played": 6,
-          "homeWins": 3,
-          "draws": 3,
-          "awayWins": 0,
-          "goalsHome": 8,
-          "goalsAway": 5,
-          "matches": [
-            {
-              "date": "2026-03-08",
-              "season": "2025-26",
-              "home": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "away": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "score": {
-                "home": 0,
-                "away": 0
-              }
-            },
-            {
-              "date": "2025-10-04",
-              "season": "2025-26",
-              "home": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "away": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "score": {
-                "home": 2,
-                "away": 2
-              }
-            },
-            {
-              "date": "2021-04-04",
-              "season": "2020-21",
-              "home": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "away": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "score": {
-                "home": 1,
-                "away": 2
-              }
-            },
-            {
-              "date": "2020-12-05",
-              "season": "2020-21",
-              "home": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "away": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "score": {
-                "home": 2,
-                "away": 1
-              }
-            },
-            {
-              "date": "2020-02-16",
-              "season": "2019-20",
-              "home": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "away": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "score": {
-                "home": 0,
-                "away": 1
-              }
-            },
-            {
-              "date": "2019-09-22",
-              "season": "2019-20",
-              "home": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "away": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "score": {
-                "home": 1,
-                "away": 1
-              }
-            }
-          ]
-        },
-        "dataQuality": {
-          "homeMatches": 43,
-          "awayMatches": 116,
-          "note": null
-        }
-      }
-    },
-    {
-      "id": "2026-27-kasimpasa-besiktas",
-      "round": 10,
-      "date": "2026-11-01",
-      "kickoff": null,
-      "status": "finished",
-      "home": {
-        "id": "kasimpasa",
-        "name": "Kasımpaşa"
-      },
-      "away": {
-        "id": "besiktas",
-        "name": "Beşiktaş"
-      },
-      "score": {
-        "home": 2,
-        "away": 2
-      },
-      "prediction": {
-        "frozen": true,
-        "backfilled": true,
-        "publishedAt": "2026-11-18T06:00:00Z",
-        "modelVersion": "poisson-tw-1",
-        "expectedGoals": {
-          "home": 1.2261,
-          "away": 1.4509
-        },
-        "probabilities": {
-          "home": 0.3193,
-          "draw": 0.2576,
-          "away": 0.4231
-        },
-        "pick": "away",
-        "topScores": [
-          {
-            "home": 1,
-            "away": 1,
-            "p": 0.1223
-          },
-          {
-            "home": 0,
-            "away": 1,
-            "p": 0.0998
-          },
-          {
-            "home": 1,
-            "away": 2,
-            "p": 0.0887
-          }
-        ],
-        "goals3Plus": 0.5007,
-        "bothScore": 0.541,
-        "confidence": "medium",
-        "reasons": [
-          "Beklenen gol: Kasımpaşa 1,23, Beşiktaş 1,45.",
-          "Kasımpaşa: bu sezon 4 iç saha maçında 7 gol attı, 4 gol yedi.",
-          "Beşiktaş: bu sezon 4 deplasman maçında 4 gol attı, 7 gol yedi."
-        ]
-      },
-      "outcome": {
-        "pickHit": false,
-        "goals3PlusHit": true,
-        "bothScoreHit": true
-      },
-      "analysis": {
-        "home": {
-          "team": {
-            "id": "kasimpasa",
-            "name": "Kasımpaşa"
-          },
-          "position": 6,
-          "form": [
-            "W",
-            "W",
-            "L",
-            "D",
-            "W"
-          ],
-          "season": {
-            "played": 9,
-            "won": 4,
-            "drawn": 4,
-            "lost": 1,
-            "goalsFor": 13,
-            "goalsAgainst": 9,
-            "points": 16
-          },
-          "venue": {
-            "label": "home",
-            "played": 4,
-            "won": 1,
-            "drawn": 3,
-            "lost": 0,
-            "goalsFor": 7,
-            "goalsAgainst": 4
-          },
-          "avgGoalsFor": 1.4444,
-          "avgGoalsAgainst": 1.0,
-          "cleanSheets": 3,
-          "failedToScore": 1,
-          "goals3PlusRate": 0.4444,
-          "bothScoreRate": 0.6667,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "eyupspor",
-                "name": "Eyüpspor"
-              },
-              "venue": "A",
-              "goalsFor": 1,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "venue": "H",
-              "goalsFor": 4,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "venue": "A",
-              "goalsFor": 1,
-              "goalsAgainst": 3,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-18",
-              "opponent": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-13",
-              "opponent": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 1,
-              "result": "W"
-            }
-          ]
-        },
-        "away": {
-          "team": {
-            "id": "besiktas",
-            "name": "Beşiktaş"
-          },
-          "position": 4,
-          "form": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "season": {
-            "played": 9,
-            "won": 6,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 18,
-            "goalsAgainst": 10,
-            "points": 18
-          },
-          "venue": {
-            "label": "away",
-            "played": 4,
-            "won": 1,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 4,
-            "goalsAgainst": 7
-          },
-          "avgGoalsFor": 2.0,
-          "avgGoalsAgainst": 1.1111,
-          "cleanSheets": 3,
-          "failedToScore": 2,
-          "goals3PlusRate": 0.5556,
-          "bothScoreRate": 0.4444,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "kocaelispor",
-                "name": "Kocaelispor"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-20",
-              "opponent": {
-                "id": "amedspor",
-                "name": "Amedspor"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 3,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-11",
-              "opponent": {
-                "id": "erzurumspor-fk",
-                "name": "Erzurumspor FK"
-              },
-              "venue": "H",
-              "goalsFor": 3,
-              "goalsAgainst": 0,
-              "result": "W"
-            }
-          ]
-        },
-        "h2h": {
-          "played": 12,
-          "homeWins": 5,
-          "draws": 2,
-          "awayWins": 5,
-          "goalsHome": 22,
-          "goalsAway": 20,
-          "matches": [
-            {
-              "date": "2026-03-22",
-              "season": "2025-26",
-              "home": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "away": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "score": {
-                "home": 2,
-                "away": 1
-              }
-            },
-            {
-              "date": "2025-10-26",
-              "season": "2025-26",
-              "home": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "away": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "score": {
-                "home": 1,
-                "away": 1
-              }
-            },
-            {
-              "date": "2025-04-07",
-              "season": "2024-25",
-              "home": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "away": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "score": {
-                "home": 1,
-                "away": 1
-              }
-            },
-            {
-              "date": "2024-11-02",
-              "season": "2024-25",
-              "home": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "away": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "score": {
-                "home": 1,
-                "away": 3
-              }
-            },
-            {
-              "date": "2024-05-26",
-              "season": "2023-24",
-              "home": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "away": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "score": {
-                "home": 2,
-                "away": 1
-              }
-            },
-            {
-              "date": "2024-01-05",
-              "season": "2023-24",
-              "home": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "away": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "score": {
-                "home": 1,
-                "away": 3
-              }
-            }
-          ]
-        },
-        "dataQuality": {
-          "homeMatches": 117,
-          "awayMatches": 116,
-          "note": null
-        }
-      }
-    },
-    {
-      "id": "2026-27-kocaelispor-caykur-rizespor",
-      "round": 10,
-      "date": "2026-11-01",
-      "kickoff": null,
-      "status": "finished",
-      "home": {
-        "id": "kocaelispor",
-        "name": "Kocaelispor"
-      },
-      "away": {
-        "id": "caykur-rizespor",
-        "name": "Çaykur Rizespor"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "prediction": {
-        "frozen": true,
-        "backfilled": true,
-        "publishedAt": "2026-11-18T06:00:00Z",
-        "modelVersion": "poisson-tw-1",
-        "expectedGoals": {
-          "home": 1.289,
-          "away": 0.9557
-        },
-        "probabilities": {
-          "home": 0.4415,
-          "draw": 0.2826,
-          "away": 0.2759
-        },
-        "pick": "home",
-        "topScores": [
-          {
-            "home": 1,
-            "away": 0,
-            "p": 0.1366
-          },
-          {
-            "home": 1,
-            "away": 1,
-            "p": 0.1305
-          },
-          {
-            "home": 0,
-            "away": 0,
-            "p": 0.106
-          }
-        ],
-        "goals3Plus": 0.3892,
-        "bothScore": 0.4459,
-        "confidence": "medium",
-        "reasons": [
-          "Beklenen gol: Kocaelispor 1,29, Çaykur Rizespor 0,96.",
-          "Kocaelispor: bu sezon 4 iç saha maçında 6 gol attı, 2 gol yedi.",
-          "Çaykur Rizespor: bu sezon 4 deplasman maçında 7 gol attı, 3 gol yedi."
-        ]
-      },
-      "outcome": {
-        "pickHit": false,
-        "goals3PlusHit": true,
-        "bothScoreHit": true
-      },
-      "analysis": {
-        "home": {
-          "team": {
-            "id": "kocaelispor",
-            "name": "Kocaelispor"
-          },
-          "position": 7,
-          "form": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "season": {
-            "played": 9,
-            "won": 5,
-            "drawn": 0,
-            "lost": 4,
-            "goalsFor": 11,
-            "goalsAgainst": 9,
-            "points": 15
-          },
-          "venue": {
-            "label": "home",
-            "played": 4,
-            "won": 3,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 6,
-            "goalsAgainst": 2
-          },
-          "avgGoalsFor": 1.2222,
-          "avgGoalsAgainst": 1.0,
-          "cleanSheets": 3,
-          "failedToScore": 2,
-          "goals3PlusRate": 0.4444,
-          "bothScoreRate": 0.4444,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "venue": "A",
-              "goalsFor": 1,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-19",
-              "opponent": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-13",
-              "opponent": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 1,
-              "result": "L"
-            }
-          ]
-        },
-        "away": {
-          "team": {
-            "id": "caykur-rizespor",
-            "name": "Çaykur Rizespor"
-          },
-          "position": 13,
-          "form": [
-            "L",
-            "L",
-            "D",
-            "W",
-            "L"
-          ],
-          "season": {
-            "played": 8,
-            "won": 3,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 10,
-            "goalsAgainst": 13,
-            "points": 10
-          },
-          "venue": {
-            "label": "away",
-            "played": 4,
-            "won": 3,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 7,
-            "goalsAgainst": 3
-          },
-          "avgGoalsFor": 1.25,
-          "avgGoalsAgainst": 1.625,
-          "cleanSheets": 2,
-          "failedToScore": 3,
-          "goals3PlusRate": 0.5,
-          "bothScoreRate": 0.375,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "venue": "H",
-              "goalsFor": 3,
-              "goalsAgainst": 4,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 3,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-20",
-              "opponent": {
-                "id": "goztepe",
-                "name": "Göztepe"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-12",
-              "opponent": {
-                "id": "eyupspor",
-                "name": "Eyüpspor"
-              },
-              "venue": "A",
-              "goalsFor": 2,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-07",
-              "opponent": {
-                "id": "alanyaspor",
-                "name": "Alanyaspor"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 1,
-              "result": "L"
-            }
-          ]
-        },
-        "h2h": {
-          "played": 2,
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 1,
-          "goalsHome": 1,
-          "goalsAway": 3,
-          "matches": [
-            {
-              "date": "2026-02-22",
-              "season": "2025-26",
-              "home": {
-                "id": "caykur-rizespor",
-                "name": "Çaykur Rizespor"
-              },
-              "away": {
-                "id": "kocaelispor",
-                "name": "Kocaelispor"
-              },
-              "score": {
-                "home": 2,
-                "away": 0
-              }
-            },
-            {
-              "date": "2025-09-21",
-              "season": "2025-26",
-              "home": {
-                "id": "kocaelispor",
-                "name": "Kocaelispor"
-              },
-              "away": {
-                "id": "caykur-rizespor",
-                "name": "Çaykur Rizespor"
-              },
-              "score": {
-                "home": 1,
-                "away": 1
-              }
-            }
-          ]
-        },
-        "dataQuality": {
-          "homeMatches": 43,
-          "awayMatches": 116,
-          "note": null
-        }
-      }
-    },
-    {
-      "id": "2026-27-konyaspor-galatasaray",
-      "round": 10,
-      "date": "2026-11-01",
-      "kickoff": null,
-      "status": "finished",
-      "home": {
-        "id": "konyaspor",
-        "name": "Konyaspor"
-      },
-      "away": {
-        "id": "galatasaray",
-        "name": "Galatasaray"
-      },
-      "score": {
-        "home": 0,
-        "away": 4
-      },
-      "prediction": {
-        "frozen": true,
-        "backfilled": true,
-        "publishedAt": "2026-11-18T06:00:00Z",
-        "modelVersion": "poisson-tw-1",
-        "expectedGoals": {
-          "home": 0.9772,
-          "away": 1.7409
-        },
-        "probabilities": {
-          "home": 0.2107,
-          "draw": 0.2361,
-          "away": 0.5532
-        },
-        "pick": "away",
-        "topScores": [
-          {
-            "home": 0,
-            "away": 1,
-            "p": 0.1149
-          },
-          {
-            "home": 1,
-            "away": 1,
-            "p": 0.1123
-          },
-          {
-            "home": 0,
-            "away": 2,
-            "p": 0.1
-          }
-        ],
-        "goals3Plus": 0.5108,
-        "bothScore": 0.5143,
-        "confidence": "high",
-        "reasons": [
-          "Sezon sıralaması: Konyaspor 14, Galatasaray 1.",
-          "Beklenen gol: Konyaspor 0,98, Galatasaray 1,74.",
-          "Aralarındaki 12 maç: 2 Konyaspor galibiyeti, 3 beraberlik, 7 Galatasaray galibiyeti."
-        ]
-      },
-      "outcome": {
-        "pickHit": true,
-        "goals3PlusHit": true,
-        "bothScoreHit": false
-      },
-      "analysis": {
-        "home": {
-          "team": {
-            "id": "konyaspor",
-            "name": "Konyaspor"
-          },
-          "position": 14,
-          "form": [
-            "W",
-            "L",
-            "D",
-            "D",
-            "W"
-          ],
-          "season": {
-            "played": 9,
-            "won": 2,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 6,
-            "goalsAgainst": 9,
-            "points": 8
-          },
-          "venue": {
-            "label": "home",
-            "played": 5,
-            "won": 2,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 4,
-            "goalsAgainst": 3
-          },
-          "avgGoalsFor": 0.6667,
-          "avgGoalsAgainst": 1.0,
-          "cleanSheets": 4,
-          "failedToScore": 5,
-          "goals3PlusRate": 0.2222,
-          "bothScoreRate": 0.2222,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "amedspor",
-                "name": "Amedspor"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 1,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-18",
-              "opponent": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "result": "D"
-            },
-            {
-              "date": "2026-09-12",
-              "opponent": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 0,
-              "result": "W"
-            }
-          ]
-        },
-        "away": {
-          "team": {
-            "id": "galatasaray",
-            "name": "Galatasaray"
-          },
-          "position": 1,
-          "form": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "season": {
-            "played": 9,
-            "won": 7,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 19,
-            "goalsAgainst": 12,
-            "points": 22
-          },
-          "venue": {
-            "label": "away",
-            "played": 4,
-            "won": 3,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 8,
-            "goalsAgainst": 6
-          },
-          "avgGoalsFor": 2.1111,
-          "avgGoalsAgainst": 1.3333,
-          "cleanSheets": 3,
-          "failedToScore": 1,
-          "goals3PlusRate": 0.7778,
-          "bothScoreRate": 0.5556,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "genclerbirligi",
-                "name": "Gençlerbirliği"
-              },
-              "venue": "A",
-              "goalsFor": 1,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "kasimpasa",
-                "name": "Kasımpaşa"
-              },
-              "venue": "H",
-              "goalsFor": 3,
-              "goalsAgainst": 1,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-19",
-              "opponent": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 4,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-13",
-              "opponent": {
-                "id": "kocaelispor",
-                "name": "Kocaelispor"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 0,
-              "result": "W"
-            }
-          ]
-        },
-        "h2h": {
-          "played": 12,
-          "homeWins": 2,
-          "draws": 3,
-          "awayWins": 7,
-          "goalsHome": 11,
-          "goalsAway": 21,
-          "matches": [
-            {
-              "date": "2026-02-22",
-              "season": "2025-26",
-              "home": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "away": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "score": {
-                "home": 2,
-                "away": 0
-              }
-            },
-            {
-              "date": "2025-09-22",
-              "season": "2025-26",
-              "home": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "away": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "score": {
-                "home": 3,
-                "away": 1
-              }
-            },
-            {
-              "date": "2025-01-25",
-              "season": "2024-25",
-              "home": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "away": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "score": {
-                "home": 1,
-                "away": 0
-              }
-            },
-            {
-              "date": "2024-08-16",
-              "season": "2024-25",
-              "home": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "away": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "score": {
-                "home": 1,
-                "away": 2
-              }
-            },
-            {
-              "date": "2024-05-26",
-              "season": "2023-24",
-              "home": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "away": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "score": {
-                "home": 1,
-                "away": 3
-              }
-            },
-            {
-              "date": "2024-01-07",
-              "season": "2023-24",
-              "home": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "away": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "score": {
-                "home": 3,
-                "away": 0
-              }
-            }
-          ]
-        },
-        "dataQuality": {
-          "homeMatches": 117,
-          "awayMatches": 117,
-          "note": null
-        }
-      }
-    },
-    {
-      "id": "2026-27-trabzonspor-gaziantep-fk",
-      "round": 10,
-      "date": "2026-11-01",
-      "kickoff": null,
-      "status": "finished",
-      "home": {
-        "id": "trabzonspor",
-        "name": "Trabzonspor"
-      },
-      "away": {
-        "id": "gaziantep-fk",
-        "name": "Gaziantep FK"
-      },
-      "score": {
-        "home": 2,
-        "away": 0
-      },
-      "prediction": {
-        "frozen": true,
-        "backfilled": true,
-        "publishedAt": "2026-11-18T06:00:00Z",
-        "modelVersion": "poisson-tw-1",
-        "expectedGoals": {
-          "home": 2.4946,
-          "away": 0.8611
-        },
-        "probabilities": {
-          "home": 0.73,
-          "draw": 0.1611,
-          "away": 0.1089
-        },
-        "pick": "home",
-        "topScores": [
-          {
-            "home": 2,
-            "away": 0,
-            "p": 0.1086
-          },
-          {
-            "home": 2,
-            "away": 1,
-            "p": 0.0935
-          },
-          {
-            "home": 3,
-            "away": 0,
-            "p": 0.0903
-          }
-        ],
-        "goals3Plus": 0.6516,
-        "bothScore": 0.5297,
-        "confidence": "high",
-        "reasons": [
-          "Trabzonspor: bu sezon 4 iç saha maçında 13 gol attı, 1 gol yedi.",
-          "Beklenen gol: Trabzonspor 2,49, Gaziantep FK 0,86.",
-          "Son 5 maç: Trabzonspor 12 puan, Gaziantep FK 1 puan."
-        ]
-      },
-      "outcome": {
-        "pickHit": true,
-        "goals3PlusHit": false,
-        "bothScoreHit": false
-      },
-      "analysis": {
-        "home": {
-          "team": {
-            "id": "trabzonspor",
-            "name": "Trabzonspor"
-          },
-          "position": 3,
-          "form": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "season": {
-            "played": 9,
-            "won": 6,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 22,
-            "goalsAgainst": 8,
-            "points": 19
-          },
-          "venue": {
-            "label": "home",
-            "played": 4,
-            "won": 4,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 13,
-            "goalsAgainst": 1
-          },
-          "avgGoalsFor": 2.4444,
-          "avgGoalsAgainst": 0.8889,
-          "cleanSheets": 4,
-          "failedToScore": 1,
-          "goals3PlusRate": 0.6667,
-          "bothScoreRate": 0.4444,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "caykur-rizespor",
-                "name": "Çaykur Rizespor"
-              },
-              "venue": "A",
-              "goalsFor": 4,
-              "goalsAgainst": 3,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "besiktas",
-                "name": "Beşiktaş"
-              },
-              "venue": "H",
-              "goalsFor": 2,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "samsunspor",
-                "name": "Samsunspor"
-              },
-              "venue": "A",
-              "goalsFor": 3,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-19",
-              "opponent": {
-                "id": "galatasaray",
-                "name": "Galatasaray"
-              },
-              "venue": "H",
-              "goalsFor": 4,
-              "goalsAgainst": 0,
-              "result": "W"
-            },
-            {
-              "date": "2026-09-12",
-              "opponent": {
-                "id": "konyaspor",
-                "name": "Konyaspor"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 1,
-              "result": "L"
-            }
-          ]
-        },
-        "away": {
-          "team": {
-            "id": "gaziantep-fk",
-            "name": "Gaziantep FK"
-          },
-          "position": 15,
-          "form": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "D"
-          ],
-          "season": {
-            "played": 9,
-            "won": 2,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 9,
-            "goalsAgainst": 15,
-            "points": 8
-          },
-          "venue": {
-            "label": "away",
-            "played": 4,
-            "won": 2,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 6,
-            "goalsAgainst": 6
-          },
-          "avgGoalsFor": 1.0,
-          "avgGoalsAgainst": 1.6667,
-          "cleanSheets": 2,
-          "failedToScore": 3,
-          "goals3PlusRate": 0.5556,
-          "bothScoreRate": 0.5556,
-          "recent": [
-            {
-              "date": "2026-10-25",
-              "opponent": {
-                "id": "erzurumspor-fk",
-                "name": "Erzurumspor FK"
-              },
-              "venue": "H",
-              "goalsFor": 1,
-              "goalsAgainst": 3,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-18",
-              "opponent": {
-                "id": "basaksehir",
-                "name": "Başakşehir"
-              },
-              "venue": "A",
-              "goalsFor": 1,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-10-11",
-              "opponent": {
-                "id": "corum-fk",
-                "name": "Çorum FK"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 3,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-19",
-              "opponent": {
-                "id": "kocaelispor",
-                "name": "Kocaelispor"
-              },
-              "venue": "A",
-              "goalsFor": 0,
-              "goalsAgainst": 2,
-              "result": "L"
-            },
-            {
-              "date": "2026-09-14",
-              "opponent": {
-                "id": "fenerbahce",
-                "name": "Fenerbahçe"
-              },
-              "venue": "H",
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "result": "D"
-            }
-          ]
-        },
-        "h2h": {
-          "played": 10,
-          "homeWins": 6,
-          "draws": 4,
-          "awayWins": 0,
-          "goalsHome": 20,
-          "goalsAway": 10,
-          "matches": [
-            {
-              "date": "2026-02-22",
-              "season": "2025-26",
-              "home": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "away": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "score": {
-                "home": 1,
-                "away": 2
-              }
-            },
-            {
-              "date": "2025-09-20",
-              "season": "2025-26",
-              "home": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "away": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "score": {
-                "home": 1,
-                "away": 1
-              }
-            },
-            {
-              "date": "2025-02-23",
-              "season": "2024-25",
-              "home": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "away": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "score": {
-                "home": 3,
-                "away": 2
-              }
-            },
-            {
-              "date": "2024-09-23",
-              "season": "2024-25",
-              "home": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "away": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "score": {
-                "home": 0,
-                "away": 0
-              }
-            },
-            {
-              "date": "2024-04-28",
-              "season": "2023-24",
-              "home": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "away": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "score": {
-                "home": 4,
-                "away": 2
-              }
-            },
-            {
-              "date": "2023-12-10",
-              "season": "2023-24",
-              "home": {
-                "id": "gaziantep-fk",
-                "name": "Gaziantep FK"
-              },
-              "away": {
-                "id": "trabzonspor",
-                "name": "Trabzonspor"
-              },
-              "score": {
-                "home": 1,
-                "away": 3
-              }
-            }
-          ]
-        },
-        "dataQuality": {
-          "homeMatches": 117,
-          "awayMatches": 116,
-          "note": null
-        }
-      }
-    },
     {
       "id": "2026-27-alanyaspor-trabzonspor",
       "round": 11,
@@ -9048,7 +5994,7 @@
       },
       "score": null,
       "prediction": {
-        "frozen": false,
+        "frozen": true,
         "backfilled": false,
         "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
@@ -9409,7 +6355,7 @@
       },
       "score": null,
       "prediction": {
-        "frozen": false,
+        "frozen": true,
         "backfilled": false,
         "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
@@ -9770,7 +6716,7 @@
       },
       "score": null,
       "prediction": {
-        "frozen": false,
+        "frozen": true,
         "backfilled": false,
         "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
@@ -10131,7 +7077,7 @@
       },
       "score": null,
       "prediction": {
-        "frozen": false,
+        "frozen": true,
         "backfilled": false,
         "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
@@ -10395,7 +7341,7 @@
       },
       "score": null,
       "prediction": {
-        "frozen": false,
+        "frozen": true,
         "backfilled": false,
         "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
@@ -10724,7 +7670,7 @@
       },
       "score": null,
       "prediction": {
-        "frozen": false,
+        "frozen": true,
         "backfilled": false,
         "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
@@ -11053,7 +7999,7 @@
       },
       "score": null,
       "prediction": {
-        "frozen": false,
+        "frozen": true,
         "backfilled": false,
         "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
@@ -11317,7 +8263,7 @@
       },
       "score": null,
       "prediction": {
-        "frozen": false,
+        "frozen": true,
         "backfilled": false,
         "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
@@ -11678,7 +8624,7 @@
       },
       "score": null,
       "prediction": {
-        "frozen": false,
+        "frozen": true,
         "backfilled": false,
         "publishedAt": "2026-11-25T16:34:57.213051Z",
         "modelVersion": "poisson-tw-1",
@@ -11977,15 +8923,15 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T16:34:57.213051Z",
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.331,
+          "home": 2.3306,
           "away": 1.0583
         },
         "probabilities": {
-          "home": 0.6577,
-          "draw": 0.1847,
+          "home": 0.6576,
+          "draw": 0.1848,
           "away": 0.1576
         },
         "pick": "home",
@@ -11998,7 +8944,7 @@
           {
             "home": 2,
             "away": 0,
-            "p": 0.0916
+            "p": 0.0917
           },
           {
             "home": 1,
@@ -12006,7 +8952,7 @@
             "p": 0.0832
           }
         ],
-        "goals3Plus": 0.6582,
+        "goals3Plus": 0.6581,
         "bothScore": 0.5895,
         "confidence": "medium",
         "reasons": [
@@ -12241,7 +9187,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T16:34:57.213051Z",
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.5711,
@@ -12602,15 +9548,15 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T16:34:57.213051Z",
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.1773,
-          "away": 0.9369
+          "home": 2.1772,
+          "away": 0.937
         },
         "probabilities": {
-          "home": 0.6566,
-          "draw": 0.1931,
+          "home": 0.6565,
+          "draw": 0.1932,
           "away": 0.1503
         },
         "pick": "home",
@@ -12963,11 +9909,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T16:34:57.213051Z",
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 0.8263,
-          "away": 0.9512
+          "home": 0.8265,
+          "away": 0.9513
         },
         "probabilities": {
           "home": 0.3005,
@@ -12979,7 +9925,7 @@
           {
             "home": 0,
             "away": 0,
-            "p": 0.1691
+            "p": 0.169
           },
           {
             "home": 0,
@@ -12993,7 +9939,7 @@
           }
         ],
         "goals3Plus": 0.2634,
-        "bothScore": 0.3451,
+        "bothScore": 0.3452,
         "confidence": "low",
         "reasons": [
           "Beklenen gol: Erzurumspor FK 0,83, Kocaelispor 0,95.",
@@ -13227,11 +10173,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T16:34:57.213051Z",
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.6593,
-          "away": 0.9661
+          "home": 2.6592,
+          "away": 0.9662
         },
         "probabilities": {
           "home": 0.7334,
@@ -13588,16 +10534,16 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T16:34:57.213051Z",
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.6149,
-          "away": 0.8549
+          "away": 0.855
         },
         "probabilities": {
-          "home": 0.5533,
+          "home": 0.5532,
           "draw": 0.2485,
-          "away": 0.1982
+          "away": 0.1983
         },
         "pick": "home",
         "topScores": [
@@ -13617,12 +10563,12 @@
             "p": 0.1103
           }
         ],
-        "goals3Plus": 0.4484,
+        "goals3Plus": 0.4485,
         "bothScore": 0.4604,
         "confidence": "high",
         "reasons": [
           "Eyüpspor: bu sezon 5 deplasman maçında 1 gol attı, 19 gol yedi.",
-          "Beklenen gol: Gençlerbirliği 1,61, Eyüpspor 0,85.",
+          "Beklenen gol: Gençlerbirliği 1,61, Eyüpspor 0,86.",
           "Son 5 maç: Gençlerbirliği 6 puan, Eyüpspor 0 puan."
         ]
       },
@@ -13885,7 +10831,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T16:34:57.213051Z",
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.4302,
@@ -14246,7 +11192,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T16:34:57.213051Z",
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.3678,
@@ -14272,7 +11218,7 @@
           {
             "home": 0,
             "away": 0,
-            "p": 0.1022
+            "p": 0.1021
           }
         ],
         "goals3Plus": 0.399,
@@ -14607,11 +11553,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-25T16:34:57.213051Z",
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.6615,
-          "away": 1.1707
+          "home": 2.6612,
+          "away": 1.1706
         },
         "probabilities": {
           "home": 0.6908,
@@ -14637,7 +11583,7 @@
           }
         ],
         "goals3Plus": 0.7362,
-        "bothScore": 0.6417,
+        "bothScore": 0.6416,
         "confidence": "medium",
         "reasons": [
           "Trabzonspor: bu sezon 5 iç saha maçında 15 gol attı, 1 gol yedi.",
@@ -14850,6 +11796,3030 @@
           "homeMatches": 119,
           "awayMatches": 10,
           "note": "Çorum FK: Süper Lig verisi sınırlı."
+        }
+      }
+    },
+    {
+      "id": "2026-27-alanyaspor-samsunspor",
+      "round": 15,
+      "date": "2026-12-13",
+      "kickoff": null,
+      "status": "scheduled",
+      "home": {
+        "id": "alanyaspor",
+        "name": "Alanyaspor"
+      },
+      "away": {
+        "id": "samsunspor",
+        "name": "Samsunspor"
+      },
+      "score": null,
+      "prediction": {
+        "frozen": false,
+        "backfilled": false,
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
+        "modelVersion": "poisson-tw-1",
+        "expectedGoals": {
+          "home": 1.4413,
+          "away": 1.1589
+        },
+        "probabilities": {
+          "home": 0.4355,
+          "draw": 0.2608,
+          "away": 0.3037
+        },
+        "pick": "home",
+        "topScores": [
+          {
+            "home": 1,
+            "away": 1,
+            "p": 0.124
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "p": 0.107
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "p": 0.0894
+          }
+        ],
+        "goals3Plus": 0.4816,
+        "bothScore": 0.5238,
+        "confidence": "medium",
+        "reasons": [
+          "Beklenen gol: Alanyaspor 1,44, Samsunspor 1,16.",
+          "Samsunspor: bu sezon 6 deplasman maçında 6 gol attı, 13 gol yedi.",
+          "Sezon sıralaması: Alanyaspor 14, Samsunspor 17."
+        ]
+      },
+      "outcome": null,
+      "analysis": {
+        "home": {
+          "team": {
+            "id": "alanyaspor",
+            "name": "Alanyaspor"
+          },
+          "position": 14,
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "D"
+          ],
+          "season": {
+            "played": 11,
+            "won": 3,
+            "drawn": 3,
+            "lost": 5,
+            "goalsFor": 9,
+            "goalsAgainst": 18,
+            "points": 12
+          },
+          "venue": {
+            "label": "home",
+            "played": 5,
+            "won": 1,
+            "drawn": 2,
+            "lost": 2,
+            "goalsFor": 4,
+            "goalsAgainst": 6
+          },
+          "avgGoalsFor": 0.8182,
+          "avgGoalsAgainst": 1.6364,
+          "cleanSheets": 3,
+          "failedToScore": 4,
+          "goals3PlusRate": 0.5455,
+          "bothScoreRate": 0.4545,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "genclerbirligi",
+                "name": "Gençlerbirliği"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 5,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "kocaelispor",
+                "name": "Kocaelispor"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 3,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "erzurumspor-fk",
+                "name": "Erzurumspor FK"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "result": "D"
+            }
+          ]
+        },
+        "away": {
+          "team": {
+            "id": "samsunspor",
+            "name": "Samsunspor"
+          },
+          "position": 17,
+          "form": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "season": {
+            "played": 12,
+            "won": 2,
+            "drawn": 1,
+            "lost": 9,
+            "goalsFor": 12,
+            "goalsAgainst": 28,
+            "points": 7
+          },
+          "venue": {
+            "label": "away",
+            "played": 6,
+            "won": 1,
+            "drawn": 0,
+            "lost": 5,
+            "goalsFor": 6,
+            "goalsAgainst": 13
+          },
+          "avgGoalsFor": 1.0,
+          "avgGoalsAgainst": 2.3333,
+          "cleanSheets": 2,
+          "failedToScore": 4,
+          "goals3PlusRate": 0.5833,
+          "bothScoreRate": 0.5,
+          "recent": [
+            {
+              "date": "2026-11-22",
+              "opponent": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "venue": "A",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 5,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "amedspor",
+                "name": "Amedspor"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "kasimpasa",
+                "name": "Kasımpaşa"
+              },
+              "venue": "A",
+              "goalsFor": 1,
+              "goalsAgainst": 4,
+              "result": "L"
+            }
+          ]
+        },
+        "h2h": {
+          "played": 6,
+          "homeWins": 2,
+          "draws": 3,
+          "awayWins": 1,
+          "goalsHome": 9,
+          "goalsAway": 7,
+          "matches": [
+            {
+              "date": "2026-04-26",
+              "season": "2025-26",
+              "home": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "away": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "score": {
+                "home": 2,
+                "away": 3
+              }
+            },
+            {
+              "date": "2025-12-01",
+              "season": "2025-26",
+              "home": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "away": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "score": {
+                "home": 1,
+                "away": 1
+              }
+            },
+            {
+              "date": "2025-04-21",
+              "season": "2024-25",
+              "home": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "away": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "score": {
+                "home": 1,
+                "away": 0
+              }
+            },
+            {
+              "date": "2024-11-24",
+              "season": "2024-25",
+              "home": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "away": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "score": {
+                "home": 1,
+                "away": 1
+              }
+            },
+            {
+              "date": "2024-05-18",
+              "season": "2023-24",
+              "home": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "away": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "score": {
+                "home": 1,
+                "away": 1
+              }
+            },
+            {
+              "date": "2023-12-25",
+              "season": "2023-24",
+              "home": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "away": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "score": {
+                "home": 3,
+                "away": 1
+              }
+            }
+          ]
+        },
+        "dataQuality": {
+          "homeMatches": 118,
+          "awayMatches": 119,
+          "note": null
+        }
+      }
+    },
+    {
+      "id": "2026-27-caykur-rizespor-basaksehir",
+      "round": 15,
+      "date": "2026-12-13",
+      "kickoff": null,
+      "status": "scheduled",
+      "home": {
+        "id": "caykur-rizespor",
+        "name": "Çaykur Rizespor"
+      },
+      "away": {
+        "id": "basaksehir",
+        "name": "Başakşehir"
+      },
+      "score": null,
+      "prediction": {
+        "frozen": false,
+        "backfilled": false,
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
+        "modelVersion": "poisson-tw-1",
+        "expectedGoals": {
+          "home": 1.435,
+          "away": 1.593
+        },
+        "probabilities": {
+          "home": 0.345,
+          "draw": 0.2409,
+          "away": 0.4141
+        },
+        "pick": "away",
+        "topScores": [
+          {
+            "home": 1,
+            "away": 1,
+            "p": 0.1107
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "p": 0.0881
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "p": 0.0794
+          }
+        ],
+        "goals3Plus": 0.583,
+        "bothScore": 0.607,
+        "confidence": "low",
+        "reasons": [
+          "Başakşehir: bu sezon 5 deplasman maçında 3 gol attı, 10 gol yedi.",
+          "Aralarındaki 12 maç: 1 Çaykur Rizespor galibiyeti, 5 beraberlik, 6 Başakşehir galibiyeti.",
+          "Çaykur Rizespor: bu sezon 5 iç saha maçında 5 gol attı, 11 gol yedi."
+        ]
+      },
+      "outcome": null,
+      "analysis": {
+        "home": {
+          "team": {
+            "id": "caykur-rizespor",
+            "name": "Çaykur Rizespor"
+          },
+          "position": 9,
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "L"
+          ],
+          "season": {
+            "played": 11,
+            "won": 5,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 14,
+            "goalsAgainst": 14,
+            "points": 17
+          },
+          "venue": {
+            "label": "home",
+            "played": 5,
+            "won": 1,
+            "drawn": 0,
+            "lost": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 11
+          },
+          "avgGoalsFor": 1.2727,
+          "avgGoalsAgainst": 1.2727,
+          "cleanSheets": 4,
+          "failedToScore": 4,
+          "goals3PlusRate": 0.4545,
+          "bothScoreRate": 0.3636,
+          "recent": [
+            {
+              "date": "2026-11-22",
+              "opponent": {
+                "id": "amedspor",
+                "name": "Amedspor"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "erzurumspor-fk",
+                "name": "Erzurumspor FK"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "kocaelispor",
+                "name": "Kocaelispor"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "result": "D"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "venue": "H",
+              "goalsFor": 3,
+              "goalsAgainst": 4,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 3,
+              "result": "L"
+            }
+          ]
+        },
+        "away": {
+          "team": {
+            "id": "basaksehir",
+            "name": "Başakşehir"
+          },
+          "position": 8,
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "season": {
+            "played": 11,
+            "won": 5,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 19,
+            "goalsAgainst": 17,
+            "points": 17
+          },
+          "venue": {
+            "label": "away",
+            "played": 5,
+            "won": 1,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 3,
+            "goalsAgainst": 10
+          },
+          "avgGoalsFor": 1.7273,
+          "avgGoalsAgainst": 1.5455,
+          "cleanSheets": 3,
+          "failedToScore": 3,
+          "goals3PlusRate": 0.6364,
+          "bothScoreRate": 0.5455,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "venue": "H",
+              "goalsFor": 5,
+              "goalsAgainst": 2,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "result": "D"
+            }
+          ]
+        },
+        "h2h": {
+          "played": 12,
+          "homeWins": 1,
+          "draws": 5,
+          "awayWins": 6,
+          "goalsHome": 10,
+          "goalsAway": 22,
+          "matches": [
+            {
+              "date": "2026-02-01",
+              "season": "2025-26",
+              "home": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "away": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "score": {
+                "home": 2,
+                "away": 2
+              }
+            },
+            {
+              "date": "2025-10-22",
+              "season": "2025-26",
+              "home": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "away": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "score": {
+                "home": 0,
+                "away": 0
+              }
+            },
+            {
+              "date": "2025-01-18",
+              "season": "2024-25",
+              "home": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "away": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "score": {
+                "home": 2,
+                "away": 0
+              }
+            },
+            {
+              "date": "2024-08-12",
+              "season": "2024-25",
+              "home": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "away": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "score": {
+                "home": 1,
+                "away": 1
+              }
+            },
+            {
+              "date": "2024-04-21",
+              "season": "2023-24",
+              "home": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "away": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "score": {
+                "home": 2,
+                "away": 0
+              }
+            },
+            {
+              "date": "2023-12-02",
+              "season": "2023-24",
+              "home": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "away": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "score": {
+                "home": 3,
+                "away": 2
+              }
+            }
+          ]
+        },
+        "dataQuality": {
+          "homeMatches": 119,
+          "awayMatches": 119,
+          "note": null
+        }
+      }
+    },
+    {
+      "id": "2026-27-corum-fk-amedspor",
+      "round": 15,
+      "date": "2026-12-13",
+      "kickoff": null,
+      "status": "scheduled",
+      "home": {
+        "id": "corum-fk",
+        "name": "Çorum FK"
+      },
+      "away": {
+        "id": "amedspor",
+        "name": "Amedspor"
+      },
+      "score": null,
+      "prediction": {
+        "frozen": false,
+        "backfilled": false,
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
+        "modelVersion": "poisson-tw-1",
+        "expectedGoals": {
+          "home": 1.9629,
+          "away": 2.2957
+        },
+        "probabilities": {
+          "home": 0.339,
+          "draw": 0.1978,
+          "away": 0.4632
+        },
+        "pick": "away",
+        "topScores": [
+          {
+            "home": 1,
+            "away": 2,
+            "p": 0.0732
+          },
+          {
+            "home": 2,
+            "away": 2,
+            "p": 0.0718
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "p": 0.0637
+          }
+        ],
+        "goals3Plus": 0.7974,
+        "bothScore": 0.773,
+        "confidence": "medium",
+        "reasons": [
+          "Sezon sıralaması: Çorum FK 13, Amedspor 3.",
+          "Beklenen gol: Çorum FK 1,96, Amedspor 2,30.",
+          "Çorum FK: bu sezon 4 iç saha maçında 4 gol attı, 8 gol yedi."
+        ]
+      },
+      "outcome": null,
+      "analysis": {
+        "home": {
+          "team": {
+            "id": "corum-fk",
+            "name": "Çorum FK"
+          },
+          "position": 13,
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "season": {
+            "played": 10,
+            "won": 4,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 19,
+            "goalsAgainst": 20,
+            "points": 13
+          },
+          "venue": {
+            "label": "home",
+            "played": 4,
+            "won": 1,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 4,
+            "goalsAgainst": 8
+          },
+          "avgGoalsFor": 1.9,
+          "avgGoalsAgainst": 2.0,
+          "cleanSheets": 2,
+          "failedToScore": 3,
+          "goals3PlusRate": 0.8,
+          "bothScoreRate": 0.5,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 5,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "erzurumspor-fk",
+                "name": "Erzurumspor FK"
+              },
+              "venue": "A",
+              "goalsFor": 3,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "venue": "A",
+              "goalsFor": 3,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-09-19",
+              "opponent": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            }
+          ]
+        },
+        "away": {
+          "team": {
+            "id": "amedspor",
+            "name": "Amedspor"
+          },
+          "position": 3,
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "season": {
+            "played": 12,
+            "won": 7,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 28,
+            "goalsAgainst": 17,
+            "points": 23
+          },
+          "venue": {
+            "label": "away",
+            "played": 5,
+            "won": 1,
+            "drawn": 2,
+            "lost": 2,
+            "goalsFor": 9,
+            "goalsAgainst": 11
+          },
+          "avgGoalsFor": 2.3333,
+          "avgGoalsAgainst": 1.4167,
+          "cleanSheets": 3,
+          "failedToScore": 2,
+          "goals3PlusRate": 0.75,
+          "bothScoreRate": 0.5833,
+          "recent": [
+            {
+              "date": "2026-11-22",
+              "opponent": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "venue": "A",
+              "goalsFor": 3,
+              "goalsAgainst": 4,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "eyupspor",
+                "name": "Eyüpspor"
+              },
+              "venue": "H",
+              "goalsFor": 5,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 0,
+              "result": "W"
+            }
+          ]
+        },
+        "h2h": {
+          "played": 0,
+          "homeWins": 0,
+          "draws": 0,
+          "awayWins": 0,
+          "goalsHome": 0,
+          "goalsAway": 0,
+          "matches": []
+        },
+        "dataQuality": {
+          "homeMatches": 10,
+          "awayMatches": 12,
+          "note": "Çorum FK: Süper Lig verisi sınırlı."
+        }
+      }
+    },
+    {
+      "id": "2026-27-erzurumspor-fk-kasimpasa",
+      "round": 15,
+      "date": "2026-12-13",
+      "kickoff": null,
+      "status": "scheduled",
+      "home": {
+        "id": "erzurumspor-fk",
+        "name": "Erzurumspor FK"
+      },
+      "away": {
+        "id": "kasimpasa",
+        "name": "Kasımpaşa"
+      },
+      "score": null,
+      "prediction": {
+        "frozen": false,
+        "backfilled": false,
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
+        "modelVersion": "poisson-tw-1",
+        "expectedGoals": {
+          "home": 1.0524,
+          "away": 1.2505
+        },
+        "probabilities": {
+          "home": 0.3103,
+          "draw": 0.2817,
+          "away": 0.408
+        },
+        "pick": "away",
+        "topScores": [
+          {
+            "home": 1,
+            "away": 1,
+            "p": 0.1316
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "p": 0.125
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "p": 0.1052
+          }
+        ],
+        "goals3Plus": 0.4047,
+        "bothScore": 0.4645,
+        "confidence": "low",
+        "reasons": [
+          "Beklenen gol: Erzurumspor FK 1,05, Kasımpaşa 1,25.",
+          "Aralarındaki 4 maç: 1 Erzurumspor FK galibiyeti, 1 beraberlik, 2 Kasımpaşa galibiyeti.",
+          "Sezon sıralaması: Erzurumspor FK 11, Kasımpaşa 7."
+        ]
+      },
+      "outcome": null,
+      "analysis": {
+        "home": {
+          "team": {
+            "id": "erzurumspor-fk",
+            "name": "Erzurumspor FK"
+          },
+          "position": 11,
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "season": {
+            "played": 11,
+            "won": 4,
+            "drawn": 2,
+            "lost": 5,
+            "goalsFor": 10,
+            "goalsAgainst": 17,
+            "points": 14
+          },
+          "venue": {
+            "label": "home",
+            "played": 5,
+            "won": 3,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 5,
+            "goalsAgainst": 7
+          },
+          "avgGoalsFor": 0.9091,
+          "avgGoalsAgainst": 1.5455,
+          "cleanSheets": 4,
+          "failedToScore": 4,
+          "goals3PlusRate": 0.5455,
+          "bothScoreRate": 0.3636,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "venue": "A",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "corum-fk",
+                "name": "Çorum FK"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 3,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "venue": "A",
+              "goalsFor": 3,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "eyupspor",
+                "name": "Eyüpspor"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "result": "D"
+            }
+          ]
+        },
+        "away": {
+          "team": {
+            "id": "kasimpasa",
+            "name": "Kasımpaşa"
+          },
+          "position": 7,
+          "form": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "L"
+          ],
+          "season": {
+            "played": 11,
+            "won": 5,
+            "drawn": 5,
+            "lost": 1,
+            "goalsFor": 17,
+            "goalsAgainst": 11,
+            "points": 20
+          },
+          "venue": {
+            "label": "away",
+            "played": 6,
+            "won": 4,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 8,
+            "goalsAgainst": 5
+          },
+          "avgGoalsFor": 1.5455,
+          "avgGoalsAgainst": 1.0,
+          "cleanSheets": 4,
+          "failedToScore": 1,
+          "goals3PlusRate": 0.4545,
+          "bothScoreRate": 0.6364,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 2,
+              "result": "D"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "eyupspor",
+                "name": "Eyüpspor"
+              },
+              "venue": "A",
+              "goalsFor": 1,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "venue": "H",
+              "goalsFor": 4,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "venue": "A",
+              "goalsFor": 1,
+              "goalsAgainst": 3,
+              "result": "L"
+            }
+          ]
+        },
+        "h2h": {
+          "played": 4,
+          "homeWins": 1,
+          "draws": 1,
+          "awayWins": 2,
+          "goalsHome": 4,
+          "goalsAway": 5,
+          "matches": [
+            {
+              "date": "2021-05-08",
+              "season": "2020-21",
+              "home": {
+                "id": "erzurumspor-fk",
+                "name": "Erzurumspor FK"
+              },
+              "away": {
+                "id": "kasimpasa",
+                "name": "Kasımpaşa"
+              },
+              "score": {
+                "home": 0,
+                "away": 1
+              }
+            },
+            {
+              "date": "2021-01-18",
+              "season": "2020-21",
+              "home": {
+                "id": "kasimpasa",
+                "name": "Kasımpaşa"
+              },
+              "away": {
+                "id": "erzurumspor-fk",
+                "name": "Erzurumspor FK"
+              },
+              "score": {
+                "home": 1,
+                "away": 2
+              }
+            },
+            {
+              "date": "2019-04-07",
+              "season": "2018-19",
+              "home": {
+                "id": "kasimpasa",
+                "name": "Kasımpaşa"
+              },
+              "away": {
+                "id": "erzurumspor-fk",
+                "name": "Erzurumspor FK"
+              },
+              "score": {
+                "home": 2,
+                "away": 1
+              }
+            },
+            {
+              "date": "2018-10-27",
+              "season": "2018-19",
+              "home": {
+                "id": "erzurumspor-fk",
+                "name": "Erzurumspor FK"
+              },
+              "away": {
+                "id": "kasimpasa",
+                "name": "Kasımpaşa"
+              },
+              "score": {
+                "home": 1,
+                "away": 1
+              }
+            }
+          ]
+        },
+        "dataQuality": {
+          "homeMatches": 11,
+          "awayMatches": 119,
+          "note": "Erzurumspor FK: Süper Lig verisi sınırlı."
+        }
+      }
+    },
+    {
+      "id": "2026-27-eyupspor-galatasaray",
+      "round": 15,
+      "date": "2026-12-13",
+      "kickoff": null,
+      "status": "scheduled",
+      "home": {
+        "id": "eyupspor",
+        "name": "Eyüpspor"
+      },
+      "away": {
+        "id": "galatasaray",
+        "name": "Galatasaray"
+      },
+      "score": null,
+      "prediction": {
+        "frozen": false,
+        "backfilled": false,
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
+        "modelVersion": "poisson-tw-1",
+        "expectedGoals": {
+          "home": 0.8206,
+          "away": 2.5257
+        },
+        "probabilities": {
+          "home": 0.1002,
+          "draw": 0.156,
+          "away": 0.7438
+        },
+        "pick": "away",
+        "topScores": [
+          {
+            "home": 0,
+            "away": 2,
+            "p": 0.1123
+          },
+          {
+            "home": 0,
+            "away": 3,
+            "p": 0.0946
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "p": 0.0922
+          }
+        ],
+        "goals3Plus": 0.6498,
+        "bothScore": 0.515,
+        "confidence": "high",
+        "reasons": [
+          "Son 5 maç: Eyüpspor 0 puan, Galatasaray 15 puan.",
+          "Sezon sıralaması: Eyüpspor 18, Galatasaray 1.",
+          "Beklenen gol: Eyüpspor 0,82, Galatasaray 2,53."
+        ]
+      },
+      "outcome": null,
+      "analysis": {
+        "home": {
+          "team": {
+            "id": "eyupspor",
+            "name": "Eyüpspor"
+          },
+          "position": 18,
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "season": {
+            "played": 11,
+            "won": 1,
+            "drawn": 0,
+            "lost": 10,
+            "goalsFor": 3,
+            "goalsAgainst": 30,
+            "points": 3
+          },
+          "venue": {
+            "label": "home",
+            "played": 6,
+            "won": 1,
+            "drawn": 0,
+            "lost": 5,
+            "goalsFor": 2,
+            "goalsAgainst": 11
+          },
+          "avgGoalsFor": 0.2727,
+          "avgGoalsAgainst": 2.7273,
+          "cleanSheets": 0,
+          "failedToScore": 9,
+          "goals3PlusRate": 0.4545,
+          "bothScoreRate": 0.1818,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "kocaelispor",
+                "name": "Kocaelispor"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "amedspor",
+                "name": "Amedspor"
+              },
+              "venue": "A",
+              "goalsFor": 1,
+              "goalsAgainst": 5,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "kasimpasa",
+                "name": "Kasımpaşa"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 1,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "erzurumspor-fk",
+                "name": "Erzurumspor FK"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 4,
+              "result": "L"
+            }
+          ]
+        },
+        "away": {
+          "team": {
+            "id": "galatasaray",
+            "name": "Galatasaray"
+          },
+          "position": 1,
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "season": {
+            "played": 12,
+            "won": 10,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 29,
+            "goalsAgainst": 16,
+            "points": 31
+          },
+          "venue": {
+            "label": "away",
+            "played": 5,
+            "won": 4,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 12,
+            "goalsAgainst": 6
+          },
+          "avgGoalsFor": 2.4167,
+          "avgGoalsAgainst": 1.3333,
+          "cleanSheets": 4,
+          "failedToScore": 1,
+          "goals3PlusRate": 0.8333,
+          "bothScoreRate": 0.5833,
+          "recent": [
+            {
+              "date": "2026-11-22",
+              "opponent": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "amedspor",
+                "name": "Amedspor"
+              },
+              "venue": "H",
+              "goalsFor": 4,
+              "goalsAgainst": 3,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "venue": "A",
+              "goalsFor": 4,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "genclerbirligi",
+                "name": "Gençlerbirliği"
+              },
+              "venue": "A",
+              "goalsFor": 1,
+              "goalsAgainst": 0,
+              "result": "W"
+            }
+          ]
+        },
+        "h2h": {
+          "played": 4,
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 3,
+          "goalsHome": 4,
+          "goalsAway": 14,
+          "matches": [
+            {
+              "date": "2026-02-15",
+              "season": "2025-26",
+              "home": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "away": {
+                "id": "eyupspor",
+                "name": "Eyüpspor"
+              },
+              "score": {
+                "home": 5,
+                "away": 1
+              }
+            },
+            {
+              "date": "2025-09-13",
+              "season": "2025-26",
+              "home": {
+                "id": "eyupspor",
+                "name": "Eyüpspor"
+              },
+              "away": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "score": {
+                "home": 0,
+                "away": 2
+              }
+            },
+            {
+              "date": "2025-04-27",
+              "season": "2024-25",
+              "home": {
+                "id": "eyupspor",
+                "name": "Eyüpspor"
+              },
+              "away": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "score": {
+                "home": 1,
+                "away": 5
+              }
+            },
+            {
+              "date": "2024-12-01",
+              "season": "2024-25",
+              "home": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "away": {
+                "id": "eyupspor",
+                "name": "Eyüpspor"
+              },
+              "score": {
+                "home": 2,
+                "away": 2
+              }
+            }
+          ]
+        },
+        "dataQuality": {
+          "homeMatches": 81,
+          "awayMatches": 120,
+          "note": null
+        }
+      }
+    },
+    {
+      "id": "2026-27-fenerbahce-trabzonspor",
+      "round": 15,
+      "date": "2026-12-13",
+      "kickoff": null,
+      "status": "scheduled",
+      "home": {
+        "id": "fenerbahce",
+        "name": "Fenerbahçe"
+      },
+      "away": {
+        "id": "trabzonspor",
+        "name": "Trabzonspor"
+      },
+      "score": null,
+      "prediction": {
+        "frozen": false,
+        "backfilled": false,
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
+        "modelVersion": "poisson-tw-1",
+        "expectedGoals": {
+          "home": 2.0558,
+          "away": 1.3717
+        },
+        "probabilities": {
+          "home": 0.5329,
+          "draw": 0.2128,
+          "away": 0.2543
+        },
+        "pick": "home",
+        "topScores": [
+          {
+            "home": 2,
+            "away": 1,
+            "p": 0.0941
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "p": 0.0916
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "p": 0.0686
+          }
+        ],
+        "goals3Plus": 0.6655,
+        "bothScore": 0.6508,
+        "confidence": "medium",
+        "reasons": [
+          "Fenerbahçe: bu sezon 5 iç saha maçında 17 gol attı, 6 gol yedi.",
+          "Son 5 maç: Fenerbahçe 7 puan, Trabzonspor 15 puan.",
+          "Beklenen gol: Fenerbahçe 2,06, Trabzonspor 1,37."
+        ]
+      },
+      "outcome": null,
+      "analysis": {
+        "home": {
+          "team": {
+            "id": "fenerbahce",
+            "name": "Fenerbahçe"
+          },
+          "position": 5,
+          "form": [
+            "D",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "season": {
+            "played": 12,
+            "won": 6,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 31,
+            "goalsAgainst": 12,
+            "points": 20
+          },
+          "venue": {
+            "label": "home",
+            "played": 5,
+            "won": 3,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 17,
+            "goalsAgainst": 6
+          },
+          "avgGoalsFor": 2.5833,
+          "avgGoalsAgainst": 1.0,
+          "cleanSheets": 6,
+          "failedToScore": 1,
+          "goals3PlusRate": 0.8333,
+          "bothScoreRate": 0.5,
+          "recent": [
+            {
+              "date": "2026-11-22",
+              "opponent": {
+                "id": "kocaelispor",
+                "name": "Kocaelispor"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 2,
+              "result": "D"
+            },
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "corum-fk",
+                "name": "Çorum FK"
+              },
+              "venue": "A",
+              "goalsFor": 5,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "venue": "A",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "venue": "H",
+              "goalsFor": 3,
+              "goalsAgainst": 0,
+              "result": "W"
+            }
+          ]
+        },
+        "away": {
+          "team": {
+            "id": "trabzonspor",
+            "name": "Trabzonspor"
+          },
+          "position": 2,
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "season": {
+            "played": 11,
+            "won": 8,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 26,
+            "goalsAgainst": 8,
+            "points": 25
+          },
+          "venue": {
+            "label": "away",
+            "played": 6,
+            "won": 3,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 11,
+            "goalsAgainst": 7
+          },
+          "avgGoalsFor": 2.3636,
+          "avgGoalsAgainst": 0.7273,
+          "cleanSheets": 6,
+          "failedToScore": 1,
+          "goals3PlusRate": 0.5455,
+          "bothScoreRate": 0.3636,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "venue": "A",
+              "goalsFor": 4,
+              "goalsAgainst": 3,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "venue": "A",
+              "goalsFor": 3,
+              "goalsAgainst": 0,
+              "result": "W"
+            }
+          ]
+        },
+        "h2h": {
+          "played": 12,
+          "homeWins": 7,
+          "draws": 2,
+          "awayWins": 3,
+          "goalsHome": 24,
+          "goalsAway": 17,
+          "matches": [
+            {
+              "date": "2026-02-15",
+              "season": "2025-26",
+              "home": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "away": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "score": {
+                "home": 2,
+                "away": 3
+              }
+            },
+            {
+              "date": "2025-09-14",
+              "season": "2025-26",
+              "home": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "away": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "score": {
+                "home": 1,
+                "away": 0
+              }
+            },
+            {
+              "date": "2025-04-06",
+              "season": "2024-25",
+              "home": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "away": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "score": {
+                "home": 4,
+                "away": 1
+              }
+            },
+            {
+              "date": "2024-11-03",
+              "season": "2024-25",
+              "home": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "away": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "score": {
+                "home": 2,
+                "away": 3
+              }
+            },
+            {
+              "date": "2024-03-17",
+              "season": "2023-24",
+              "home": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "away": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "score": {
+                "home": 2,
+                "away": 3
+              }
+            },
+            {
+              "date": "2023-11-04",
+              "season": "2023-24",
+              "home": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "away": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "score": {
+                "home": 2,
+                "away": 3
+              }
+            }
+          ]
+        },
+        "dataQuality": {
+          "homeMatches": 120,
+          "awayMatches": 119,
+          "note": null
+        }
+      }
+    },
+    {
+      "id": "2026-27-gaziantep-fk-besiktas",
+      "round": 15,
+      "date": "2026-12-13",
+      "kickoff": null,
+      "status": "scheduled",
+      "home": {
+        "id": "gaziantep-fk",
+        "name": "Gaziantep FK"
+      },
+      "away": {
+        "id": "besiktas",
+        "name": "Beşiktaş"
+      },
+      "score": null,
+      "prediction": {
+        "frozen": false,
+        "backfilled": false,
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
+        "modelVersion": "poisson-tw-1",
+        "expectedGoals": {
+          "home": 1.001,
+          "away": 1.7506
+        },
+        "probabilities": {
+          "home": 0.2149,
+          "draw": 0.2353,
+          "away": 0.5498
+        },
+        "pick": "away",
+        "topScores": [
+          {
+            "home": 1,
+            "away": 1,
+            "p": 0.1118
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "p": 0.1117
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "p": 0.0979
+          }
+        ],
+        "goals3Plus": 0.5189,
+        "bothScore": 0.5226,
+        "confidence": "medium",
+        "reasons": [
+          "Son 5 maç: Gaziantep FK 0 puan, Beşiktaş 10 puan.",
+          "Sezon sıralaması: Gaziantep FK 16, Beşiktaş 4.",
+          "Beklenen gol: Gaziantep FK 1,00, Beşiktaş 1,75."
+        ]
+      },
+      "outcome": null,
+      "analysis": {
+        "home": {
+          "team": {
+            "id": "gaziantep-fk",
+            "name": "Gaziantep FK"
+          },
+          "position": 16,
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "season": {
+            "played": 12,
+            "won": 2,
+            "drawn": 2,
+            "lost": 8,
+            "goalsFor": 9,
+            "goalsAgainst": 20,
+            "points": 8
+          },
+          "venue": {
+            "label": "home",
+            "played": 6,
+            "won": 0,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 3,
+            "goalsAgainst": 11
+          },
+          "avgGoalsFor": 0.75,
+          "avgGoalsAgainst": 1.6667,
+          "cleanSheets": 2,
+          "failedToScore": 6,
+          "goals3PlusRate": 0.4167,
+          "bothScoreRate": 0.4167,
+          "recent": [
+            {
+              "date": "2026-11-22",
+              "opponent": {
+                "id": "genclerbirligi",
+                "name": "Gençlerbirliği"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 1,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "kasimpasa",
+                "name": "Kasımpaşa"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "erzurumspor-fk",
+                "name": "Erzurumspor FK"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 3,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "venue": "A",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            }
+          ]
+        },
+        "away": {
+          "team": {
+            "id": "besiktas",
+            "name": "Beşiktaş"
+          },
+          "position": 4,
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L",
+            "W"
+          ],
+          "season": {
+            "played": 11,
+            "won": 7,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 23,
+            "goalsAgainst": 12,
+            "points": 22
+          },
+          "venue": {
+            "label": "away",
+            "played": 5,
+            "won": 1,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 6,
+            "goalsAgainst": 9
+          },
+          "avgGoalsFor": 2.0909,
+          "avgGoalsAgainst": 1.0909,
+          "cleanSheets": 4,
+          "failedToScore": 2,
+          "goals3PlusRate": 0.6364,
+          "bothScoreRate": 0.4545,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "genclerbirligi",
+                "name": "Gençlerbirliği"
+              },
+              "venue": "H",
+              "goalsFor": 3,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "kasimpasa",
+                "name": "Kasımpaşa"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 2,
+              "result": "D"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "trabzonspor",
+                "name": "Trabzonspor"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "kocaelispor",
+                "name": "Kocaelispor"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            }
+          ]
+        },
+        "h2h": {
+          "played": 10,
+          "homeWins": 4,
+          "draws": 2,
+          "awayWins": 4,
+          "goalsHome": 14,
+          "goalsAway": 16,
+          "matches": [
+            {
+              "date": "2026-05-03",
+              "season": "2025-26",
+              "home": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "away": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "score": {
+                "home": 0,
+                "away": 2
+              }
+            },
+            {
+              "date": "2025-12-08",
+              "season": "2025-26",
+              "home": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "away": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "score": {
+                "home": 2,
+                "away": 2
+              }
+            },
+            {
+              "date": "2025-03-10",
+              "season": "2024-25",
+              "home": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "away": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "score": {
+                "home": 1,
+                "away": 2
+              }
+            },
+            {
+              "date": "2024-10-06",
+              "season": "2024-25",
+              "home": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "away": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "score": {
+                "home": 1,
+                "away": 1
+              }
+            },
+            {
+              "date": "2024-03-11",
+              "season": "2023-24",
+              "home": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "away": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "score": {
+                "home": 2,
+                "away": 0
+              }
+            },
+            {
+              "date": "2023-10-30",
+              "season": "2023-24",
+              "home": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "away": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "score": {
+                "home": 2,
+                "away": 0
+              }
+            }
+          ]
+        },
+        "dataQuality": {
+          "homeMatches": 119,
+          "awayMatches": 118,
+          "note": null
+        }
+      }
+    },
+    {
+      "id": "2026-27-goztepe-konyaspor",
+      "round": 15,
+      "date": "2026-12-13",
+      "kickoff": null,
+      "status": "scheduled",
+      "home": {
+        "id": "goztepe",
+        "name": "Göztepe"
+      },
+      "away": {
+        "id": "konyaspor",
+        "name": "Konyaspor"
+      },
+      "score": null,
+      "prediction": {
+        "frozen": false,
+        "backfilled": false,
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
+        "modelVersion": "poisson-tw-1",
+        "expectedGoals": {
+          "home": 1.6127,
+          "away": 0.8959
+        },
+        "probabilities": {
+          "home": 0.5424,
+          "draw": 0.2489,
+          "away": 0.2087
+        },
+        "pick": "home",
+        "topScores": [
+          {
+            "home": 1,
+            "away": 0,
+            "p": 0.1313
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "p": 0.1176
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "p": 0.1058
+          }
+        ],
+        "goals3Plus": 0.4584,
+        "bothScore": 0.4738,
+        "confidence": "medium",
+        "reasons": [
+          "Son 5 maç: Göztepe 12 puan, Konyaspor 4 puan.",
+          "Beklenen gol: Göztepe 1,61, Konyaspor 0,90.",
+          "Konyaspor: bu sezon 5 deplasman maçında 2 gol attı, 7 gol yedi."
+        ]
+      },
+      "outcome": null,
+      "analysis": {
+        "home": {
+          "team": {
+            "id": "goztepe",
+            "name": "Göztepe"
+          },
+          "position": 10,
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "season": {
+            "played": 11,
+            "won": 4,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 22,
+            "goalsAgainst": 19,
+            "points": 15
+          },
+          "venue": {
+            "label": "home",
+            "played": 5,
+            "won": 1,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 7,
+            "goalsAgainst": 9
+          },
+          "avgGoalsFor": 2.0,
+          "avgGoalsAgainst": 1.7273,
+          "cleanSheets": 2,
+          "failedToScore": 1,
+          "goals3PlusRate": 0.8182,
+          "bothScoreRate": 0.7273,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "corum-fk",
+                "name": "Çorum FK"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "kocaelispor",
+                "name": "Kocaelispor"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "eyupspor",
+                "name": "Eyüpspor"
+              },
+              "venue": "A",
+              "goalsFor": 4,
+              "goalsAgainst": 0,
+              "result": "W"
+            }
+          ]
+        },
+        "away": {
+          "team": {
+            "id": "konyaspor",
+            "name": "Konyaspor"
+          },
+          "position": 15,
+          "form": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "D"
+          ],
+          "season": {
+            "played": 11,
+            "won": 2,
+            "drawn": 2,
+            "lost": 7,
+            "goalsFor": 6,
+            "goalsAgainst": 14,
+            "points": 8
+          },
+          "venue": {
+            "label": "away",
+            "played": 5,
+            "won": 0,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 2,
+            "goalsAgainst": 7
+          },
+          "avgGoalsFor": 0.5455,
+          "avgGoalsAgainst": 1.2727,
+          "cleanSheets": 4,
+          "failedToScore": 7,
+          "goals3PlusRate": 0.2727,
+          "bothScoreRate": 0.1818,
+          "recent": [
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "samsunspor",
+                "name": "Samsunspor"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 1,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 4,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "genclerbirligi",
+                "name": "Gençlerbirliği"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "amedspor",
+                "name": "Amedspor"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 1,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-11",
+              "opponent": {
+                "id": "basaksehir",
+                "name": "Başakşehir"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "result": "D"
+            }
+          ]
+        },
+        "h2h": {
+          "played": 10,
+          "homeWins": 5,
+          "draws": 3,
+          "awayWins": 2,
+          "goalsHome": 14,
+          "goalsAway": 9,
+          "matches": [
+            {
+              "date": "2026-02-08",
+              "season": "2025-26",
+              "home": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "away": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "score": {
+                "home": 0,
+                "away": 0
+              }
+            },
+            {
+              "date": "2025-08-29",
+              "season": "2025-26",
+              "home": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "away": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "score": {
+                "home": 1,
+                "away": 1
+              }
+            },
+            {
+              "date": "2025-04-12",
+              "season": "2024-25",
+              "home": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "away": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "score": {
+                "home": 1,
+                "away": 0
+              }
+            },
+            {
+              "date": "2024-11-10",
+              "season": "2024-25",
+              "home": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "away": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "score": {
+                "home": 2,
+                "away": 0
+              }
+            },
+            {
+              "date": "2021-05-08",
+              "season": "2020-21",
+              "home": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "away": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "score": {
+                "home": 0,
+                "away": 1
+              }
+            },
+            {
+              "date": "2021-01-16",
+              "season": "2020-21",
+              "home": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "away": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "score": {
+                "home": 2,
+                "away": 3
+              }
+            }
+          ]
+        },
+        "dataQuality": {
+          "homeMatches": 81,
+          "awayMatches": 119,
+          "note": null
+        }
+      }
+    },
+    {
+      "id": "2026-27-kocaelispor-genclerbirligi",
+      "round": 15,
+      "date": "2026-12-13",
+      "kickoff": null,
+      "status": "scheduled",
+      "home": {
+        "id": "kocaelispor",
+        "name": "Kocaelispor"
+      },
+      "away": {
+        "id": "genclerbirligi",
+        "name": "Gençlerbirliği"
+      },
+      "score": null,
+      "prediction": {
+        "frozen": false,
+        "backfilled": false,
+        "publishedAt": "2026-11-26T03:42:18.508790Z",
+        "modelVersion": "poisson-tw-1",
+        "expectedGoals": {
+          "home": 1.1834,
+          "away": 0.7616
+        },
+        "probabilities": {
+          "home": 0.4587,
+          "draw": 0.304,
+          "away": 0.2373
+        },
+        "pick": "home",
+        "topScores": [
+          {
+            "home": 1,
+            "away": 0,
+            "p": 0.1692
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "p": 0.143
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "p": 0.1289
+          }
+        ],
+        "goals3Plus": 0.3085,
+        "bothScore": 0.3699,
+        "confidence": "medium",
+        "reasons": [
+          "Gençlerbirliği: bu sezon 5 deplasman maçında 1 gol attı, 14 gol yedi.",
+          "Beklenen gol: Kocaelispor 1,18, Gençlerbirliği 0,76.",
+          "Sezon sıralaması: Kocaelispor 6, Gençlerbirliği 12."
+        ]
+      },
+      "outcome": null,
+      "analysis": {
+        "home": {
+          "team": {
+            "id": "kocaelispor",
+            "name": "Kocaelispor"
+          },
+          "position": 6,
+          "form": [
+            "D",
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "season": {
+            "played": 12,
+            "won": 6,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 15,
+            "goalsAgainst": 11,
+            "points": 20
+          },
+          "venue": {
+            "label": "home",
+            "played": 6,
+            "won": 3,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 8,
+            "goalsAgainst": 4
+          },
+          "avgGoalsFor": 1.25,
+          "avgGoalsAgainst": 0.9167,
+          "cleanSheets": 5,
+          "failedToScore": 3,
+          "goals3PlusRate": 0.4167,
+          "bothScoreRate": 0.4167,
+          "recent": [
+            {
+              "date": "2026-11-22",
+              "opponent": {
+                "id": "fenerbahce",
+                "name": "Fenerbahçe"
+              },
+              "venue": "H",
+              "goalsFor": 2,
+              "goalsAgainst": 2,
+              "result": "D"
+            },
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "eyupspor",
+                "name": "Eyüpspor"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "caykur-rizespor",
+                "name": "Çaykur Rizespor"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "result": "D"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "venue": "A",
+              "goalsFor": 2,
+              "goalsAgainst": 1,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "goztepe",
+                "name": "Göztepe"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 2,
+              "result": "L"
+            }
+          ]
+        },
+        "away": {
+          "team": {
+            "id": "genclerbirligi",
+            "name": "Gençlerbirliği"
+          },
+          "position": 12,
+          "form": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "season": {
+            "played": 12,
+            "won": 4,
+            "drawn": 2,
+            "lost": 6,
+            "goalsFor": 13,
+            "goalsAgainst": 21,
+            "points": 14
+          },
+          "venue": {
+            "label": "away",
+            "played": 5,
+            "won": 1,
+            "drawn": 0,
+            "lost": 4,
+            "goalsFor": 1,
+            "goalsAgainst": 14
+          },
+          "avgGoalsFor": 1.0833,
+          "avgGoalsAgainst": 1.75,
+          "cleanSheets": 3,
+          "failedToScore": 5,
+          "goals3PlusRate": 0.5833,
+          "bothScoreRate": 0.3333,
+          "recent": [
+            {
+              "date": "2026-11-22",
+              "opponent": {
+                "id": "gaziantep-fk",
+                "name": "Gaziantep FK"
+              },
+              "venue": "H",
+              "goalsFor": 1,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-11-08",
+              "opponent": {
+                "id": "besiktas",
+                "name": "Beşiktaş"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 3,
+              "result": "L"
+            },
+            {
+              "date": "2026-11-01",
+              "opponent": {
+                "id": "alanyaspor",
+                "name": "Alanyaspor"
+              },
+              "venue": "H",
+              "goalsFor": 5,
+              "goalsAgainst": 0,
+              "result": "W"
+            },
+            {
+              "date": "2026-10-25",
+              "opponent": {
+                "id": "konyaspor",
+                "name": "Konyaspor"
+              },
+              "venue": "A",
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "result": "L"
+            },
+            {
+              "date": "2026-10-18",
+              "opponent": {
+                "id": "galatasaray",
+                "name": "Galatasaray"
+              },
+              "venue": "H",
+              "goalsFor": 0,
+              "goalsAgainst": 1,
+              "result": "L"
+            }
+          ]
+        },
+        "h2h": {
+          "played": 2,
+          "homeWins": 1,
+          "draws": 0,
+          "awayWins": 1,
+          "goalsHome": 1,
+          "goalsAway": 1,
+          "matches": [
+            {
+              "date": "2026-04-26",
+              "season": "2025-26",
+              "home": {
+                "id": "genclerbirligi",
+                "name": "Gençlerbirliği"
+              },
+              "away": {
+                "id": "kocaelispor",
+                "name": "Kocaelispor"
+              },
+              "score": {
+                "home": 1,
+                "away": 0
+              }
+            },
+            {
+              "date": "2025-11-28",
+              "season": "2025-26",
+              "home": {
+                "id": "kocaelispor",
+                "name": "Kocaelispor"
+              },
+              "away": {
+                "id": "genclerbirligi",
+                "name": "Gençlerbirliği"
+              },
+              "score": {
+                "home": 1,
+                "away": 0
+              }
+            }
+          ]
+        },
+        "dataQuality": {
+          "homeMatches": 46,
+          "awayMatches": 46,
+          "note": null
         }
       }
     }
