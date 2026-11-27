@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:07:20.029745Z",
+  "generatedAt": "2026-11-27T03:44:14.870572Z",
   "matches": [
     {
       "id": "2026-27-alanyaspor-trabzonspor",
@@ -8923,10 +8923,10 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.3301,
+          "home": 2.3297,
           "away": 1.0583
         },
         "probabilities": {
@@ -8952,7 +8952,7 @@
             "p": 0.0833
           }
         ],
-        "goals3Plus": 0.658,
+        "goals3Plus": 0.6579,
         "bothScore": 0.5894,
         "confidence": "medium",
         "reasons": [
@@ -9187,11 +9187,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.5711,
-          "away": 1.8975
+          "away": 1.8974
         },
         "probabilities": {
           "home": 0.3225,
@@ -9548,11 +9548,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 2.1771,
-          "away": 0.937
+          "away": 0.9371
         },
         "probabilities": {
           "home": 0.6565,
@@ -9909,10 +9909,10 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 0.8266,
+          "home": 0.8268,
           "away": 0.9514
         },
         "probabilities": {
@@ -9925,12 +9925,12 @@
           {
             "home": 0,
             "away": 0,
-            "p": 0.169
+            "p": 0.1689
           },
           {
             "home": 0,
             "away": 1,
-            "p": 0.1608
+            "p": 0.1607
           },
           {
             "home": 1,
@@ -9939,7 +9939,7 @@
           }
         ],
         "goals3Plus": 0.2635,
-        "bothScore": 0.3452,
+        "bothScore": 0.3453,
         "confidence": "low",
         "reasons": [
           "Beklenen gol: Erzurumspor FK 0,83, Kocaelispor 0,95.",
@@ -10173,11 +10173,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.659,
-          "away": 0.9662
+          "home": 2.6589,
+          "away": 0.9663
         },
         "probabilities": {
           "home": 0.7332,
@@ -10534,11 +10534,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.615,
-          "away": 0.8551
+          "away": 0.8552
         },
         "probabilities": {
           "home": 0.5532,
@@ -10564,7 +10564,7 @@
           }
         ],
         "goals3Plus": 0.4485,
-        "bothScore": 0.4604,
+        "bothScore": 0.4605,
         "confidence": "high",
         "reasons": [
           "Eyüpspor: bu sezon 5 deplasman maçında 1 gol attı, 19 gol yedi.",
@@ -10831,10 +10831,10 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.4302,
+          "home": 1.4303,
           "away": 1.2964
         },
         "probabilities": {
@@ -11192,7 +11192,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.3679,
@@ -11221,7 +11221,7 @@
             "p": 0.1021
           }
         ],
-        "goals3Plus": 0.399,
+        "goals3Plus": 0.3991,
         "bothScore": 0.4464,
         "confidence": "medium",
         "reasons": [
@@ -11553,11 +11553,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 2.6609,
-          "away": 1.1705
+          "home": 2.6606,
+          "away": 1.1704
         },
         "probabilities": {
           "home": 0.6908,
@@ -11569,7 +11569,7 @@
           {
             "home": 2,
             "away": 1,
-            "p": 0.0898
+            "p": 0.0899
           },
           {
             "home": 3,
@@ -11582,8 +11582,8 @@
             "p": 0.0768
           }
         ],
-        "goals3Plus": 0.7361,
-        "bothScore": 0.6416,
+        "goals3Plus": 0.736,
+        "bothScore": 0.6415,
         "confidence": "medium",
         "reasons": [
           "Trabzonspor: bu sezon 5 iç saha maçında 15 gol attı, 1 gol yedi.",
@@ -11817,10 +11817,10 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.4413,
+          "home": 1.4414,
           "away": 1.1589
         },
         "probabilities": {
@@ -12178,11 +12178,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.435,
-          "away": 1.5929
+          "away": 1.5928
         },
         "probabilities": {
           "home": 0.345,
@@ -12539,16 +12539,16 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.9625,
-          "away": 2.2951
+          "home": 1.9622,
+          "away": 2.2945
         },
         "probabilities": {
           "home": 0.339,
-          "draw": 0.1978,
-          "away": 0.4632
+          "draw": 0.1979,
+          "away": 0.4631
         },
         "pick": "away",
         "topScores": [
@@ -12568,12 +12568,12 @@
             "p": 0.0638
           }
         ],
-        "goals3Plus": 0.7973,
-        "bothScore": 0.7729,
+        "goals3Plus": 0.7971,
+        "bothScore": 0.7728,
         "confidence": "medium",
         "reasons": [
           "Sezon sıralaması: Çorum FK 13, Amedspor 3.",
-          "Beklenen gol: Çorum FK 1,96, Amedspor 2,30.",
+          "Beklenen gol: Çorum FK 1,96, Amedspor 2,29.",
           "Çorum FK: bu sezon 4 iç saha maçında 4 gol attı, 8 gol yedi."
         ]
       },
@@ -12803,10 +12803,10 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.0525,
+          "home": 1.0526,
           "away": 1.2505
         },
         "probabilities": {
@@ -12833,7 +12833,7 @@
           }
         ],
         "goals3Plus": 0.4048,
-        "bothScore": 0.4645,
+        "bothScore": 0.4646,
         "confidence": "low",
         "reasons": [
           "Beklenen gol: Erzurumspor FK 1,05, Kasımpaşa 1,25.",
@@ -13132,11 +13132,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 0.8207,
-          "away": 2.5255
+          "home": 0.8208,
+          "away": 2.5253
         },
         "probabilities": {
           "home": 0.1002,
@@ -13153,7 +13153,7 @@
           {
             "home": 0,
             "away": 3,
-            "p": 0.0946
+            "p": 0.0945
           },
           {
             "home": 1,
@@ -13161,7 +13161,7 @@
             "p": 0.0922
           }
         ],
-        "goals3Plus": 0.6498,
+        "goals3Plus": 0.6497,
         "bothScore": 0.5151,
         "confidence": "high",
         "reasons": [
@@ -13461,7 +13461,7 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 2.0558,
@@ -13822,11 +13822,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.0011,
-          "away": 1.7505
+          "home": 1.0012,
+          "away": 1.7504
         },
         "probabilities": {
           "home": 0.215,
@@ -14183,11 +14183,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
           "home": 1.6127,
-          "away": 0.8959
+          "away": 0.896
         },
         "probabilities": {
           "home": 0.5424,
@@ -14544,11 +14544,11 @@
       "prediction": {
         "frozen": false,
         "backfilled": false,
-        "publishedAt": "2026-11-26T16:07:20.029745Z",
+        "publishedAt": "2026-11-27T03:44:14.870572Z",
         "modelVersion": "poisson-tw-1",
         "expectedGoals": {
-          "home": 1.1835,
-          "away": 0.7617
+          "home": 1.1836,
+          "away": 0.7618
         },
         "probabilities": {
           "home": 0.4588,
@@ -14573,7 +14573,7 @@
             "p": 0.1289
           }
         ],
-        "goals3Plus": 0.3085,
+        "goals3Plus": 0.3086,
         "bothScore": 0.3699,
         "confidence": "medium",
         "reasons": [
