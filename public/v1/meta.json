@@ -1,13 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T15:54:39.317973Z",
+  "generatedAt": "2026-11-28T03:27:29.147715Z",
   "season": "2026-27",
   "competition": "Süper Lig",
   "modelVersion": "poisson-tw-1",
   "currentRound": 14,
   "warnings": [
     "2024-25: 4 sonuç eksik; bu maçlar eğitim ve test değerlendirmesine alınmadı.",
-    "6 geçmiş tarihli maçın sonucu kaynaklarda yok; tarih/durum elle doğrulanmalı.",
+    "kaynak tarihi gerçek tarihten geç olabilir: 2026-27-alanyaspor-konyaspor",
+    "kaynak tarihi gerçek tarihten geç olabilir: 2026-27-caykur-rizespor-kasimpasa",
+    "1 geçmiş tarihli maçın sonucu kaynaklarda yok; tarih/durum elle doğrulanmalı.",
     "openfootball 2021-22 ve 2022-23 eğitim sezonları veri setinde yok."
   ],
   "sources": [
